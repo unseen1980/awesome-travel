@@ -1,7 +1,7 @@
 # TravelResources
-Are you building a travel app? Then you might find this repository useful. Open data resourced from various sources
+Are you building a travel app? Then you might find this repository useful.
 
-### Flights Api's
+### Flights
 
 | API | Description | Link |
 |---|---|---|---|
@@ -12,7 +12,7 @@ Are you building a travel app? Then you might find this repository useful. Open 
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 | Wego | Wego Flights API | [Go!](http://support.wan.travel/hc/en-us/articles/200191669) |
 
-### Hotels Api's
+### Hotels
 
 | API | Description | Link |
 |---|---|---|---|
@@ -22,7 +22,7 @@ Are you building a travel app? Then you might find this repository useful. Open 
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 
-### Car rentals Api's
+### Car rentals
 
 | API | Description | Link |
 |---|---|---|---|
