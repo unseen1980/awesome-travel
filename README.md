@@ -21,6 +21,7 @@ Are you building a travel app? Then you might find this repository useful.
 | EasyToBook | Easytobook API | [Go!](http://www.etbxml.com/protocol/ApiFunctions.php) |
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
+| TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
 
 ### Car rentals
 
