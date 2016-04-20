@@ -22,9 +22,16 @@ Are you building a travel app? Then you might find this repository useful.
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 | TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
+| Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
 
 ### Car rentals
 
 | API | Description | Link |
 |---|---|---|---|
 | Travelpd | Car Booking Engine | [Go!](http://www.travelpd.com/car-booking-engine) |
+
+### Reviews
+
+| API | Description | Link |
+|---|---|---|---|
+| Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
