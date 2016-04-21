@@ -35,3 +35,9 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
+
+### Travel Planning
+
+| API | Description | Link |
+|---|---|---|---|
+| TripIt | Travel information api | [Go!](https://www.tripit.com/developer) |
