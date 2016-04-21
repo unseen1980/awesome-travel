@@ -17,6 +17,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | Flightstats | Flight data services api | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
+| Units | Units general API | [Go!](http://units.d8u.us) |
 
 ### Hotels
 
