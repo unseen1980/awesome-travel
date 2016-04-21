@@ -16,7 +16,7 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|---|
-| Flightstats | Flight data services api | [Go!](http://www.flightstats.com/go/Home/home.do) |
+| Flightstats | Flight data services api | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
 
 ### Hotels
 
@@ -47,3 +47,9 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | TripIt | Travel information api | [Go!](https://www.tripit.com/developer) |
+
+### Guides
+
+| API | Description | Link |
+|---|---|---|---|
+| Getyourguide |  City guides api | [Go!](https://api.getyourguide.com/) |
