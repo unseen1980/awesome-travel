@@ -12,6 +12,12 @@ Are you building a travel app? Then you might find this repository useful.
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 | Wego | Wego Flights API | [Go!](http://support.wan.travel/hc/en-us/articles/200191669) |
 
+### Flight data
+
+| API | Description | Link |
+|---|---|---|---|
+| Flightstats | Flight data services api | [Go!](http://www.flightstats.com/go/Home/home.do) |
+
 ### Hotels
 
 | API | Description | Link |
