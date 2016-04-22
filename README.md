@@ -8,7 +8,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Skyscanner | Skyscanner for Business | [Go!](http://en.business.skyscanner.net/) |
 | Rome2rio | Rome2rio API partner program | [Go!](http://www.rome2rio.com/documentation/signup) |
 | Tgels | Tgels Airfares REST api | [Go!](http://www.tgels.com/tapi/) |
-| Travelfusion | Travelfusion earch and book api | [Go!](http://www.tgels.com/tapi/) |
+| Travelfusion | Travelfusion search and book api | [Go!](http://xmldocs.travelfusion.com/home/search-and-book-api) |
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 | Wego | Wego Flights API | [Go!](http://support.wan.travel/hc/en-us/articles/200191669) |
 
