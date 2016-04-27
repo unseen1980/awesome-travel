@@ -6,6 +6,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | Skyscanner | Skyscanner for Business | [Go!](http://en.business.skyscanner.net/) |
+| Sabre | Sabre® Dev Studio | [Go!](https://developer.sabre.com/docs/read/REST_APIs) |
 | Rome2rio | Rome2rio API partner program | [Go!](http://www.rome2rio.com/documentation/signup) |
 | Tgels | Tgels Airfares REST api | [Go!](http://www.tgels.com/tapi/) |
 | Travelfusion | Travelfusion search and book api | [Go!](http://xmldocs.travelfusion.com/home/search-and-book-api) |
