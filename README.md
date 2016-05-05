@@ -39,6 +39,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | Travelpd | Car Booking Engine | [Go!](http://www.travelpd.com/car-booking-engine) |
+| Skyscanner | Skyscanner Car Hire Live | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/CarHireLivePricing) |
 
 ### Reviews
 
@@ -58,3 +59,8 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | Getyourguide |  City guides api | [Go!](https://api.getyourguide.com/) |
+
+### Currencies
+| API | Description | Link |
+|---|---|---|---|
+| Skyscanner | Skyscanner Currencies Service | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/Currencies) |
