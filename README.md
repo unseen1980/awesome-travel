@@ -61,6 +61,15 @@ Are you building a travel app? Then you might find this repository useful.
 | Getyourguide |  City guides api | [Go!](https://api.getyourguide.com/) |
 
 ### Currencies
+
 | API | Description | Link |
 |---|---|---|---|
 | Skyscanner | Skyscanner Currencies Service | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/Currencies) |
+
+### Free stock photos
+
+| URL | Description | Link |
+|---|---|---|---|
+| Pixabay  | Free images and videos | [Go!](https://pixabay.com/) |
+| Image Source | Royalty Free Stock Photos | [Go!](http://www.imagesource.com/royalty-free) |
+| Pexel  | Free stock photos | [Go!](https://www.pexels.com/) |
