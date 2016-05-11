@@ -66,6 +66,15 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|---|
 | Skyscanner | Skyscanner Currencies Service | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/Currencies) |
 
+### Map services
+
+| API | Description | Link |
+|---|---|---|---|
+| Google | Google maps services api | [Go!](https://developers.google.com/maps/) |
+| Microsoft | Bing maps API | [Go!](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) |
+| Mapbox | Mapbox web services | [Go!](https://www.mapbox.com/api-documentation/) |
+| Here | Interactive maps | [Go!](https://developer.here.com/develop/javascript-api) |
+
 ### Free stock photos
 
 | URL | Description | Link |
