@@ -42,6 +42,12 @@ Are you building a travel app? Then you might find this repository useful.
 | Skyscanner | Skyscanner Car Hire Live | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/CarHireLivePricing) |
 | Cartrawler | Car Booking Engine | [Go!](http://www.cartrawler.com/Cartrawler_Ajax_Booking_Engine.pdf) |
 
+### Events
+
+| API | Description | Link |
+|---|---|---|---|
+| Active | Search for events, classes, campgrounds | [Go!](http://developer.active.com/) |
+
 ### Reviews
 
 | API | Description | Link |
