@@ -96,3 +96,9 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | Ip-api | IP Geolocation API | [Go!](http://ip-api.com/docs/) |
+
+### Other services
+
+| API | Description | Link |
+|---|---|---|---|
+| Adventurelink | Trips finder api | [Go!](http://api.adventurelink.com/) |
