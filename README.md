@@ -92,7 +92,7 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|---|
 | Pixabay  | Free images and videos | [Go!](https://pixabay.com/) |
 | Image Source | Royalty Free Stock Photos | [Go!](http://www.imagesource.com/royalty-free) |
-| Pexel  | Free stock photos | [Go!](https://www.pexels.com/) |
+| Picjumbo  | Free stock photos | [Go!](https://www.picjumbo.com) |
 | Unsplash  | Free stock photos | [Go!](https://unsplash.com/) |
 | Flickr  | Photos service | [Go!](https://www.flickr.com/services/api/) |
 | Pexels  | Free stock photos | [Go!](https://www.pexels.com/) |
