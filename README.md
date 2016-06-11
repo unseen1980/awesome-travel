@@ -95,6 +95,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Pexel  | Free stock photos | [Go!](https://www.pexels.com/) |
 | Unsplash  | Free stock photos | [Go!](https://unsplash.com/) |
 | Flickr  | Photos service | [Go!](https://www.flickr.com/services/api/) |
+| Pexels  | Free stock photos | [Go!](https://www.pexels.com/) |
 
 ### Geolocation
 
