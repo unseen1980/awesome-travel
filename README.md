@@ -114,3 +114,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Flyontime | Flight times  | [Go!](http://www.flyontime.us/developers) |
 | Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
 
+
+## License
+
+The content of this project is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
