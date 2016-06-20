@@ -1,0 +1,18 @@
+{
+  "name": "typescript-express",
+  "version": false,
+  "globalDependencies": {
+    "Q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#af76bf46025371c760d8fe8c03cf874428da6124",
+    "body-parser": "github:DefinitelyTyped/DefinitelyTyped/body-parser/body-parser.d.ts#32f0a90dab26f70b206407ac24d4d622d0f0f408",
+    "cookie-parser": "registry:dt/cookie-parser#1.3.4+20160316155526",
+    "debug": "github:DefinitelyTyped/DefinitelyTyped/debug/debug.d.ts#32f0a90dab26f70b206407ac24d4d622d0f0f408",
+    "express": "github:DefinitelyTyped/DefinitelyTyped/express/express.d.ts#32f0a90dab26f70b206407ac24d4d622d0f0f408",
+    "glob": "github:DefinitelyTyped/DefinitelyTyped/glob/glob.d.ts#af76bf46025371c760d8fe8c03cf874428da6124",
+    "lodash": "github:DefinitelyTyped/DefinitelyTyped/lodash/lodash.d.ts#af76bf46025371c760d8fe8c03cf874428da6124",
+    "minimatch": "github:DefinitelyTyped/DefinitelyTyped/minimatch/minimatch.d.ts#af76bf46025371c760d8fe8c03cf874428da6124",
+    "mongoose": "github:DefinitelyTyped/DefinitelyTyped/mongoose/mongoose.d.ts#af76bf46025371c760d8fe8c03cf874428da6124",
+    "morgan": "github:DefinitelyTyped/DefinitelyTyped/morgan/morgan.d.ts#32f0a90dab26f70b206407ac24d4d622d0f0f408",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#af76bf46025371c760d8fe8c03cf874428da6124",
+    "serve-favicon": "github:DefinitelyTyped/DefinitelyTyped/serve-favicon/serve-favicon.d.ts#32f0a90dab26f70b206407ac24d4d622d0f0f408"
+  }
+}

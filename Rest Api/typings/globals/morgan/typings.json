@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/32f0a90dab26f70b206407ac24d4d622d0f0f408/morgan/morgan.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/morgan/morgan.d.ts#32f0a90dab26f70b206407ac24d4d622d0f0f408",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/32f0a90dab26f70b206407ac24d4d622d0f0f408/morgan/morgan.d.ts"
+  }
+}
