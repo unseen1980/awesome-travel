@@ -23,7 +23,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Flightstats | Flight data services api | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
 | Units | Units general API | [Go!](http://units.d8u.us) |
 
-### Hotels
+### Hotels / Rentals
 
 | API | Description | Link |
 |---|---|---|---|
@@ -34,6 +34,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 | TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
 | Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
+| Homeaway | Rental property api | [Go!](https://www.homeaway.com/platform/developer-api)
 
 ### Car rentals
 
