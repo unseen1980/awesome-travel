@@ -35,6 +35,7 @@ Are you building a travel app? Then you might find this repository useful.
 | TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
 | Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Homeaway | Rental property api | [Go!](https://www.homeaway.com/platform/developer-api)
+| Stay22 | Hotels close to events api | [Go!](https://www.stay22.com/embed)
 
 ### Car rentals
 
