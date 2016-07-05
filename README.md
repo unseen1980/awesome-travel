@@ -89,6 +89,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Microsoft | Bing maps API | [Go!](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) |
 | Mapbox | Mapbox web services | [Go!](https://www.mapbox.com/api-documentation/) |
 | Here | Interactive maps | [Go!](https://developer.here.com/develop/javascript-api) |
+| Viamichelin | Maps, routing and geocoding | [Go!](http://dev.viamichelin.com/) |
 
 ### Free stock photos
 
