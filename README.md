@@ -118,6 +118,7 @@ Are you building a travel app? Then you might find this repository useful.
 | OAG | Airline schedules  | [Go!](http://www.oag.com/schedules/schedulesondemand) |
 | Flyontime | Flight times  | [Go!](http://www.flyontime.us/developers) |
 | Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
+| Uber | Uber api  | [Go!](https://developer.uber.com/) |
 
 
 ## License
