@@ -120,6 +120,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Flyontime | Flight times  | [Go!](http://www.flyontime.us/developers) |
 | Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
 | Uber | Uber api  | [Go!](https://developer.uber.com/) |
+| Timezonedb | Time Zones api  | [Go!](https://timezonedb.com/api) |
 
 
 ## License
