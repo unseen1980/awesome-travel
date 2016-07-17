@@ -121,6 +121,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
 | Uber | Uber api  | [Go!](https://developer.uber.com/) |
 | Timezonedb | Time Zones api  | [Go!](https://timezonedb.com/api) |
+| WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
 
 
 ## License
