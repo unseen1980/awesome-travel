@@ -15,6 +15,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Travelfusion | Travelfusion search and book api | [Go!](http://xmldocs.travelfusion.com/home/search-and-book-api) |
 | Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 | Wego | Wego Flights API | [Go!](http://support.wan.travel/hc/en-us/articles/200191669) |
+| Allmyles | Allmyles Flights API | [Go!](http://docs.allmyles.apiary.io/#) |
 
 ### Flight data
 
@@ -37,6 +38,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Homeaway | Rental property api | [Go!](https://www.homeaway.com/platform/developer-api)
 | Stay22 | Hotels close to events api | [Go!](https://www.stay22.com/embed)
 | Zumata | Multi-Source Hotel Booking API | [Go!](https://www.zumata.com/products-what-we-do/products-hotel-booking-api/)
+| Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
 
 ### Car rentals
 
