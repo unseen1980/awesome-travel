@@ -1,0 +1,1242 @@
+[
+  {
+    "code": "100",
+    "name": "Fokker 100"
+  },
+  {
+    "code": "141",
+    "name": "British Aerospace BAe 146-100"
+  },
+  {
+    "code": "142",
+    "name": "British Aerospace BAe 146-200"
+  },
+  {
+    "code": "143",
+    "name": "British Aerospace BAe 146-300"
+  },
+  {
+    "code": "146",
+    "name": "British Aerospace BAe 146"
+  },
+  {
+    "code": "14F",
+    "name": "British Aerospace BAe 146 Freighter"
+  },
+  {
+    "code": "14X",
+    "name": "British Aerospace BAe 146-100QT/QC"
+  },
+  {
+    "code": "14Y",
+    "name": "British Aerospace BAe 146-200QT/QC"
+  },
+  {
+    "code": "14Z",
+    "name": "British Aerospace BAe 146-300QT/QC"
+  },
+  {
+    "code": "310",
+    "name": "Airbus Industrie A310"
+  },
+  {
+    "code": "312",
+    "name": "Airbus Industrie A310-200"
+  },
+  {
+    "code": "313",
+    "name": "Airbus Industrie A310-300"
+  },
+  {
+    "code": "318",
+    "name": "Airbus Industrie A318"
+  },
+  {
+    "code": "319",
+    "name": "Airbus Industrie A319"
+  },
+  {
+    "code": "31F",
+    "name": "Airbus Industrie A310 Freighter"
+  },
+  {
+    "code": "31X",
+    "name": "Airbus Industrie A310-200 Freighter"
+  },
+  {
+    "code": "31Y",
+    "name": "Airbus Industrie A310-300 Freighter"
+  },
+  {
+    "code": "320",
+    "name": "Airbus Industrie A320"
+  },
+  {
+    "code": "321",
+    "name": "Airbus Industrie A321"
+  },
+  {
+    "code": "32S",
+    "name": "Airbus Industrie A318/319/320/321"
+  },
+  {
+    "code": "330",
+    "name": "Airbus Industrie A330"
+  },
+  {
+    "code": "332",
+    "name": "Airbus Industrie A330-200"
+  },
+  {
+    "code": "333",
+    "name": "Airbus Industrie A330-300"
+  },
+  {
+    "code": "340",
+    "name": "Airbus Industrie A340"
+  },
+  {
+    "code": "342",
+    "name": "Airbus Industrie A340-200"
+  },
+  {
+    "code": "343",
+    "name": "Airbus Industrie A340-300"
+  },
+  {
+    "code": "345",
+    "name": "Airbus Industrie A340-500"
+  },
+  {
+    "code": "346",
+    "name": "Airbus Industrie A340-600"
+  },
+  {
+    "code": "380",
+    "name": "Airbus Industrie A380"
+  },
+  {
+    "code": "388",
+    "name": "Airbus Industrie A380-800"
+  },
+  {
+    "code": "38F",
+    "name": "Airbus Industrie A380 Freighter"
+  },
+  {
+    "code": "703",
+    "name": "Boeing 707-300"
+  },
+  {
+    "code": "707",
+    "name": "Boeing 707/720"
+  },
+  {
+    "code": "70F",
+    "name": "Boeing 707-300 Freighter"
+  },
+  {
+    "code": "70M",
+    "name": "Boeing 707-300 Combi"
+  },
+  {
+    "code": "717",
+    "name": "Boeing 717-200"
+  },
+  {
+    "code": "721",
+    "name": "Boeing 727-100"
+  },
+  {
+    "code": "722",
+    "name": "Boeing 727-200"
+  },
+  {
+    "code": "727",
+    "name": "Boeing 727"
+  },
+  {
+    "code": "72A",
+    "name": "Boeing 727-200 Advanced"
+  },
+  {
+    "code": "72B",
+    "name": "Boeing 727-100 Combi"
+  },
+  {
+    "code": "72C",
+    "name": "Boeing 727-200 Combi"
+  },
+  {
+    "code": "72F",
+    "name": "Boeing 727 Freighter"
+  },
+  {
+    "code": "72M",
+    "name": "Boeing 727 Combi"
+  },
+  {
+    "code": "72S",
+    "name": "Boeing 727-200"
+  },
+  {
+    "code": "72X",
+    "name": "Boeing 727-100 Freighter"
+  },
+  {
+    "code": "72Y",
+    "name": "Boeing 727-200 Freighter"
+  },
+  {
+    "code": "731",
+    "name": "Boeing 737-100"
+  },
+  {
+    "code": "732",
+    "name": "Boeing 737-200"
+  },
+  {
+    "code": "733",
+    "name": "Boeing 737-300"
+  },
+  {
+    "code": "734",
+    "name": "Boeing 737-400"
+  },
+  {
+    "code": "735",
+    "name": "Boeing 737-500"
+  },
+  {
+    "code": "736",
+    "name": "Boeing 737-600"
+  },
+  {
+    "code": "737",
+    "name": "Boeing 737"
+  },
+  {
+    "code": "738",
+    "name": "Boeing 737-800"
+  },
+  {
+    "code": "739",
+    "name": "Boeing 737-900"
+  },
+  {
+    "code": "73A",
+    "name": "Boeing 737-200/200C Advanced"
+  },
+  {
+    "code": "73C",
+    "name": "Boeing 737-300"
+  },
+  {
+    "code": "73E",
+    "name": "Boeing 737-900ER"
+  },
+  {
+    "code": "73F",
+    "name": "Boeing 737 Freighter"
+  },
+  {
+    "code": "73G",
+    "name": "Boeing 737-700"
+  },
+  {
+    "code": "73H",
+    "name": "Boeing 737-800 With Winglets"
+  },
+  {
+    "code": "73J",
+    "name": "Boeing 737-900 With Winglets"
+  },
+  {
+    "code": "73N",
+    "name": "Boeing 737-300 Mixed Config"
+  },
+  {
+    "code": "73M",
+    "name": "Boeing 737-200 Combi"
+  },
+  {
+    "code": "73P",
+    "name": "Boeing 737-400 Freighter"
+  },
+  {
+    "code": "73Q",
+    "name": "Boeing 737-400 Mixed Config"
+  },
+  {
+    "code": "73S",
+    "name": "Boeing 737 Advanced"
+  },
+  {
+    "code": "73W",
+    "name": "Boeing 737-700 With Winglets"
+  },
+  {
+    "code": "73X",
+    "name": "Boeing 737-200 Freighter"
+  },
+  {
+    "code": "73Y",
+    "name": "Boeing 737-300 Freighter"
+  },
+  {
+    "code": "741",
+    "name": "Boeing 747-100"
+  },
+  {
+    "code": "742",
+    "name": "Boeing 747-200"
+  },
+  {
+    "code": "743",
+    "name": "Boeing 747-300 (including -100SUD and -200SUD)"
+  },
+  {
+    "code": "744",
+    "name": "Boeing 747-400"
+  },
+  {
+    "code": "747",
+    "name": "Boeing 747"
+  },
+  {
+    "code": "74C",
+    "name": "Boeing 747-200 Combi"
+  },
+  {
+    "code": "74D",
+    "name": "Boeing 747-300 Combi (including -200SUD)"
+  },
+  {
+    "code": "74F",
+    "name": "Boeing 747 Freighter"
+  },
+  {
+    "code": "74E",
+    "name": "Boeing 747-400 Combi"
+  },
+  {
+    "code": "74J",
+    "name": "Boeing 747-400 Domestic"
+  },
+  {
+    "code": "74L",
+    "name": "Boeing 747SP"
+  },
+  {
+    "code": "74M",
+    "name": "Boeing 747 Combi"
+  },
+  {
+    "code": "74T",
+    "name": "Boeing 747-100 Freighter"
+  },
+  {
+    "code": "74U",
+    "name": "Boeing 747-300 Freighter"
+  },
+  {
+    "code": "74V",
+    "name": "Boeing 747SR Freighter"
+  },
+  {
+    "code": "74X",
+    "name": "Boeing 747-200 Freighter"
+  },
+  {
+    "code": "74Y",
+    "name": "Boeing 747-400 Freighter"
+  },
+  {
+    "code": "752",
+    "name": "Boeing 757-200"
+  },
+  {
+    "code": "753",
+    "name": "Boeing 757-300"
+  },
+  {
+    "code": "75W",
+    "name": "Boeing 757-200 With Winglets"
+  },
+  {
+    "code": "757",
+    "name": "Boeing 757"
+  },
+  {
+    "code": "75F",
+    "name": "Boeing 757-200 Freighter"
+  },
+  {
+    "code": "75M",
+    "name": "Boeing 757-200 Combi"
+  },
+  {
+    "code": "762",
+    "name": "Boeing 767-200"
+  },
+  {
+    "code": "763",
+    "name": "Boeing 767-300"
+  },
+  {
+    "code": "764",
+    "name": "Boeing 767-400"
+  },
+  {
+    "code": "767",
+    "name": "Boeing 767"
+  },
+  {
+    "code": "76F",
+    "name": "Boeing 767 Freighter"
+  },
+  {
+    "code": "76X",
+    "name": "Boeing 767-200 Freighter"
+  },
+  {
+    "code": "76Y",
+    "name": "Boeing 767-300 Freighter"
+  },
+  {
+    "code": "772",
+    "name": "Boeing 777-200/200ER"
+  },
+  {
+    "code": "773",
+    "name": "Boeing 777-300"
+  },
+  {
+    "code": "777",
+    "name": "Boeing 777"
+  },
+  {
+    "code": "77L",
+    "name": "Boeing 777-200LR"
+  },
+  {
+    "code": "77W",
+    "name": "Boeing 777-300ER"
+  },
+  {
+    "code": "A26",
+    "name": "Antonov An-26"
+  },
+  {
+    "code": "A28",
+    "name": "Antonov An-28"
+  },
+  {
+    "code": "A30",
+    "name": "Antonov An-30"
+  },
+  {
+    "code": "A32",
+    "name": "Antonov An-32"
+  },
+  {
+    "code": "A40",
+    "name": "Antonov An-140"
+  },
+  {
+    "code": "A4F",
+    "name": "Antonov An-124 Ruslan"
+  },
+  {
+    "code": "A81",
+    "name": "Antonov An-148-100"
+  },
+  {
+    "code": "AB3",
+    "name": "Airbus Industrie A300"
+  },
+  {
+    "code": "AB4",
+    "name": "Airbus Industrie A300B2/B4/C4"
+  },
+  {
+    "code": "AB6",
+    "name": "Airbus Industrie A300-600"
+  },
+  {
+    "code": "ABB",
+    "name": "Airbus Industrie A300-600ST Beluga"
+  },
+  {
+    "code": "ABF",
+    "name": "Airbus Industrie A300 Freighter"
+  },
+  {
+    "code": "ABX",
+    "name": "Airbus Industrie A300B4/C4/F4 Freighter"
+  },
+  {
+    "code": "ABY",
+    "name": "Airbus Industrie A300-600 Freighter"
+  },
+  {
+    "code": "ACD",
+    "name": "Twin Aero Commander/Turbo/Jetprop"
+  },
+  {
+    "code": "AGH",
+    "name": "Agusta A109"
+  },
+  {
+    "code": "AN4",
+    "name": "Antonov An-24"
+  },
+  {
+    "code": "AN6",
+    "name": "Antonov An-26/30/32"
+  },
+  {
+    "code": "AN7",
+    "name": "Antonov An-72/74"
+  },
+  {
+    "code": "ANF",
+    "name": "Antonov An-12"
+  },
+  {
+    "code": "AR1",
+    "name": "Avro RJ100 Avroliner"
+  },
+  {
+    "code": "AR7",
+    "name": "Avro RJ70 Avroliner"
+  },
+  {
+    "code": "AR8",
+    "name": "Avro RJ85 Avroliner"
+  },
+  {
+    "code": "ARJ",
+    "name": "Avro RJ Avroliner"
+  },
+  {
+    "code": "ARX",
+    "name": "Avro RJX"
+  },
+  {
+    "code": "AT4",
+    "name": "Aerospatiale/Alenia ATR 42-300/320"
+  },
+  {
+    "code": "AT5",
+    "name": "Aerospatiale/Alenia ATR 42-500"
+  },
+  {
+    "code": "AT7",
+    "name": "Aerospatiale/Alenia ATR 72"
+  },
+  {
+    "code": "ATP",
+    "name": "British Aerospace ATP"
+  },
+  {
+    "code": "ATR",
+    "name": "Aerospatiale/Alenia ATR"
+  },
+  {
+    "code": "AX1",
+    "name": "Avro RJX100"
+  },
+  {
+    "code": "AX8",
+    "name": "Avro RJX85"
+  },
+  {
+    "code": "B11",
+    "name": "British Aerospace BAC One Eleven"
+  },
+  {
+    "code": "B12",
+    "name": "British Aerospace BAC One Eleven 200"
+  },
+  {
+    "code": "B13",
+    "name": "British Aerospace BAC One Eleven 300"
+  },
+  {
+    "code": "B14",
+    "name": "British Aerospace BAC One Eleven 400"
+  },
+  {
+    "code": "B15",
+    "name": "British Aerospace BAC One Eleven 500"
+  },
+  {
+    "code": "B72",
+    "name": "Boeing 720B"
+  },
+  {
+    "code": "BE1",
+    "name": "Beechcraft Beech 1900"
+  },
+  {
+    "code": "BE2",
+    "name": "Beechcraft twin piston"
+  },
+  {
+    "code": "BE9",
+    "name": "Beechcraft Airliner 99"
+  },
+  {
+    "code": "BEC",
+    "name": "Beechcraft Light Aircraft"
+  },
+  {
+    "code": "BEH",
+    "name": "Beechcraft Beech 1900D"
+  },
+  {
+    "code": "BES",
+    "name": "Beechcraft Beech 1900C"
+  },
+  {
+    "code": "BET",
+    "name": "Beechcraft Light Aircraft Twin Prop"
+  },
+  {
+    "code": "BH2",
+    "name": "Bell Helicopters"
+  },
+  {
+    "code": "BNI",
+    "name": "Pilatus Britten-Norman BN-2A/B"
+  },
+  {
+    "code": "BNT",
+    "name": "Pilatus Britten-Norman BN-2A Trislander"
+  },
+  {
+    "code": "BUS",
+    "name": "Non Aircraft - Bus"
+  },
+  {
+    "code": "CCJ",
+    "name": "Canadair Challenger"
+  },
+  {
+    "code": "CD2",
+    "name": "Government Aircraft Factories N22B/N24A Nomad"
+  },
+  {
+    "code": "CN1",
+    "name": "Cessna light aircraft - single piston engine"
+  },
+  {
+    "code": "CNA",
+    "name": "Cessna Light Aircraft"
+  },
+  {
+    "code": "CNC",
+    "name": "Cessna light aircraft - single turboprop engine"
+  },
+  {
+    "code": "CNJ",
+    "name": "Cessna Citation"
+  },
+  {
+    "code": "CNT",
+    "name": "Cessna light aircraft - twin turboprop engines"
+  },
+  {
+    "code": "CR1",
+    "name": "Canadair Regional Jet 100"
+  },
+  {
+    "code": "CR2",
+    "name": "Canadair Regional Jet 200"
+  },
+  {
+    "code": "CR7",
+    "name": "Canadair Regional Jet 700"
+  },
+  {
+    "code": "CR9",
+    "name": "Canadair Regional Jet 900"
+  },
+  {
+    "code": "CRA",
+    "name": "Canadair Regional Jet 705"
+  },
+  {
+    "code": "CRJ",
+    "name": "Canadair Regional Jet"
+  },
+  {
+    "code": "CRV",
+    "name": "Aerospatiale/SUD SE210 Caravelle"
+  },
+  {
+    "code": "CS2",
+    "name": "CASA/IPTN CN-212 Aviocar"
+  },
+  {
+    "code": "CS5",
+    "name": "CASA/IPTN CN-235"
+  },
+  {
+    "code": "CV5",
+    "name": "Convair 580"
+  },
+  {
+    "code": "CVF",
+    "name": "Convair 580/600/640 Freighter"
+  },
+  {
+    "code": "CWC",
+    "name": "Curtiss C-46 Commando"
+  },
+  {
+    "code": "CVR",
+    "name": "Convair 240/440/580"
+  },
+  {
+    "code": "D10",
+    "name": "Boeing/McDonnell Douglas DC-10"
+  },
+  {
+    "code": "D11",
+    "name": "Boeing/McDonnell Douglas DC-10-10/15"
+  },
+  {
+    "code": "D1C",
+    "name": "Boeing/McDonnell Douglas DC-10-30/40"
+  },
+  {
+    "code": "D1F",
+    "name": "Boeing/McDonnell Douglas DC-10 Freighter"
+  },
+  {
+    "code": "D1X",
+    "name": "Boeing/McDonnell Douglas DC-10-10 Freighter"
+  },
+  {
+    "code": "D1Y",
+    "name": "Boeing/McDonnell Douglas DC-10-30/40 Freighter"
+  },
+  {
+    "code": "D28",
+    "name": "Fairchild Dornier Do-228"
+  },
+  {
+    "code": "D38",
+    "name": "Fairchild Dornier Do-328"
+  },
+  {
+    "code": "D3F",
+    "name": "Boeing/Douglas DC-3 Freighter"
+  },
+  {
+    "code": "D6F",
+    "name": "Boeing/Douglas DC-6A/B/C Freighter"
+  },
+  {
+    "code": "D8F",
+    "name": "Boeing/McDonnell Douglas DC-8 Freighter"
+  },
+  {
+    "code": "D8L",
+    "name": "Boeing/McDonnell Douglas DC-8-62"
+  },
+  {
+    "code": "D8M",
+    "name": "Boeing/McDonnell Douglas DC-8 Combi"
+  },
+  {
+    "code": "D8Q",
+    "name": "Boeing/McDonnell Douglas DC-8-72"
+  },
+  {
+    "code": "D8T",
+    "name": "Boeing/McDonnell Douglas DC-8-50 Freighter"
+  },
+  {
+    "code": "D8X",
+    "name": "Boeing/McDonnell Douglas DC-8-61/62/63 Freighter"
+  },
+  {
+    "code": "D8Y",
+    "name": "Boeing/McDonnell Douglas DC-8-71/72/73 Freighter"
+  },
+  {
+    "code": "D91",
+    "name": "Boeing/McDonnell Douglas DC-9-10"
+  },
+  {
+    "code": "D92",
+    "name": "Boeing/McDonnell Douglas DC-9-20"
+  },
+  {
+    "code": "D93",
+    "name": "Boeing/McDonnell Douglas DC-9-30"
+  },
+  {
+    "code": "D94",
+    "name": "Boeing/McDonnell Douglas DC-9-40"
+  },
+  {
+    "code": "D95",
+    "name": "Boeing/McDonnell Douglas DC-9-50"
+  },
+  {
+    "code": "D9C",
+    "name": "Boeing/McDonnell Douglas DC-9-30 Freighter"
+  },
+  {
+    "code": "D9F",
+    "name": "Boeing/McDonnell Douglas DC-9-40 Freighter"
+  },
+  {
+    "code": "D9S",
+    "name": "Boeing/McDonnell Douglas DC-9-30/40/50"
+  },
+  {
+    "code": "D9X",
+    "name": "Boeing/McDonnell Douglas DC-9-10 Freighter"
+  },
+  {
+    "code": "DC3",
+    "name": "Boeing/Douglas DC-3"
+  },
+  {
+    "code": "DC6",
+    "name": "Boeing/Douglas DC-6"
+  },
+  {
+    "code": "DC8",
+    "name": "Boeing/McDonnell Douglas DC-8"
+  },
+  {
+    "code": "DC9",
+    "name": "Boeing/McDonnell Douglas DC-9"
+  },
+  {
+    "code": "DCF",
+    "name": "Boeing/McDonnell Douglas DC-9 Freighter"
+  },
+  {
+    "code": "DH1",
+    "name": "De Havilland Canada DHC-8-100 Dash 8/8Q"
+  },
+  {
+    "code": "DH2",
+    "name": "De Havilland Canada DHC-8-200 Dash 8/8Q"
+  },
+  {
+    "code": "DH3",
+    "name": "De Havilland Canada DHC-8-300 Dash 8/8Q"
+  },
+  {
+    "code": "DH4",
+    "name": "De Havilland Canada DHC-8-400 Dash 8/8Q"
+  },
+  {
+    "code": "DH7",
+    "name": "De Havilland Canada DHC-7 Dash 7"
+  },
+  {
+    "code": "DH8",
+    "name": "De Havilland Canada DHC-8 Dash 8 All S."
+  },
+  {
+    "code": "DHC",
+    "name": "De Havilland Canada DHC-4 Caribou"
+  },
+  {
+    "code": "DHL",
+    "name": "De Havilland Canada DHC-3 Turbo Otter"
+  },
+  {
+    "code": "DHP",
+    "name": "De Havilland Canada DHC-2 Beaver"
+  },
+  {
+    "code": "DHS",
+    "name": "De Havilland Canada DHC-3 Otter"
+  },
+  {
+    "code": "DHT",
+    "name": "De Havilland Canada DHC-6 Twin Otter"
+  },
+  {
+    "code": "E70",
+    "name": "Embraer ERJ-170"
+  },
+  {
+    "code": "E75",
+    "name": "Embraer ERJ-175"
+  },
+  {
+    "code": "E90",
+    "name": "Embraer ERJ-190"
+  },
+  {
+    "code": "E95",
+    "name": "Embraer ERJ-195"
+  },
+  {
+    "code": "EM2",
+    "name": "Embraer EMB-120 Brasilia"
+  },
+  {
+    "code": "EM9",
+    "name": "Embraer E190"
+  },
+  {
+    "code": "EMB",
+    "name": "Embraer EMB-110 Bandeirante"
+  },
+  {
+    "code": "EMJ",
+    "name": "Embraer ERJ-170/190"
+  },
+  {
+    "code": "ER3",
+    "name": "Embraer ERJ-135 Regional Jet"
+  },
+  {
+    "code": "ER4",
+    "name": "Embraer ERJ-145 Regional Jet"
+  },
+  {
+    "code": "ERD",
+    "name": "Embraer ERJ-140 Regional Jet"
+  },
+  {
+    "code": "ERJ",
+    "name": "Embraer ERJ-135/140/145 Regional Jet"
+  },
+  {
+    "code": "F21",
+    "name": "Fokker F28 Fellowship 1000"
+  },
+  {
+    "code": "F22",
+    "name": "Fokker F28 Fellowship 2000"
+  },
+  {
+    "code": "F23",
+    "name": "Fokker F28 Fellowship 3000"
+  },
+  {
+    "code": "F24",
+    "name": "Fokker F28 Fellowship 4000"
+  },
+  {
+    "code": "F27",
+    "name": "Fokker F27 Friendship/Fairchild F27"
+  },
+  {
+    "code": "F28",
+    "name": "Fokker F28 Fellowship"
+  },
+  {
+    "code": "F50",
+    "name": "Fokker 50"
+  },
+  {
+    "code": "F70",
+    "name": "Fokker 70"
+  },
+  {
+    "code": "FA7",
+    "name": "Fairchild Dornier 728JET"
+  },
+  {
+    "code": "FK7",
+    "name": "Fairchild FH227"
+  },
+  {
+    "code": "FRJ",
+    "name": "Fairchild Dornier 328JET"
+  },
+  {
+    "code": "GRG",
+    "name": "Grumman G-21 Goose"
+  },
+  {
+    "code": "GRM",
+    "name": "Grumman G-73 Turbo Mallard"
+  },
+  {
+    "code": "HEC",
+    "name": "Helio H-250 Courier/H-295/395 Super Courier"
+  },
+  {
+    "code": "HS7",
+    "name": "British Aerospace/Hawker Siddeley HS748"
+  },
+  {
+    "code": "I14",
+    "name": "Ilyushin IL-114"
+  },
+  {
+    "code": "I93",
+    "name": "Ilyushin IL-96-300"
+  },
+  {
+    "code": "I9F",
+    "name": "Ilyushin IL-96 Freighter"
+  },
+  {
+    "code": "I9M",
+    "name": "Ilyushin IL-96M"
+  },
+  {
+    "code": "I9Y",
+    "name": "Ilyushin IL-96T"
+  },
+  {
+    "code": "IL6",
+    "name": "Ilyushin IL-62"
+  },
+  {
+    "code": "IL7",
+    "name": "Ilyushin IL-76"
+  },
+  {
+    "code": "IL8",
+    "name": "Ilyushin IL-18"
+  },
+  {
+    "code": "IL9",
+    "name": "Ilyushin IL-96"
+  },
+  {
+    "code": "ILW",
+    "name": "Ilyushin IL-86"
+  },
+  {
+    "code": "J31",
+    "name": "British Aerospace Jetstream 31"
+  },
+  {
+    "code": "J32",
+    "name": "British Aerospace Jetstream 32"
+  },
+  {
+    "code": "J41",
+    "name": "British Aerospace Jetstream 41"
+  },
+  {
+    "code": "JST",
+    "name": "British Aerospace Jetstream 31/32/41"
+  },
+  {
+    "code": "JU5",
+    "name": "Junkers Ju52"
+  },
+  {
+    "code": "L10",
+    "name": "Lockheed L-1011 Tristar"
+  },
+  {
+    "code": "L11",
+    "name": "Lockheed L-1011-1/50/100/150/200/250"
+  },
+  {
+    "code": "L15",
+    "name": "Lockheed L-1011-500 Tristar"
+  },
+  {
+    "code": "L1F",
+    "name": "Lockheed L-1011 Tristar Freighter"
+  },
+  {
+    "code": "L4T",
+    "name": "Let 410 Turbolet"
+  },
+  {
+    "code": "LCH",
+    "name": "Non Aircraft - Launch/Boat"
+  },
+  {
+    "code": "LMO",
+    "name": "Non Aircraft - Limousine"
+  },
+  {
+    "code": "LOE",
+    "name": "Lockheed L-188 Electra"
+  },
+  {
+    "code": "LOH",
+    "name": "Lockheed L-100 Hercules"
+  },
+  {
+    "code": "LRJ",
+    "name": "Learjet"
+  },
+  {
+    "code": "M11",
+    "name": "Boeing/McDonnell Douglas MD-11"
+  },
+  {
+    "code": "M1F",
+    "name": "Boeing/McDonnell Douglas MD-11 Freighter"
+  },
+  {
+    "code": "M1M",
+    "name": "Boeing/McDonnell Douglas MD-11 Combi"
+  },
+  {
+    "code": "M80",
+    "name": "Boeing/McDonnell Douglas MD-80"
+  },
+  {
+    "code": "M81",
+    "name": "Boeing/McDonnell Douglas MD-81"
+  },
+  {
+    "code": "M82",
+    "name": "Boeing/McDonnell Douglas MD-82"
+  },
+  {
+    "code": "M83",
+    "name": "Boeing/McDonnell Douglas MD-83"
+  },
+  {
+    "code": "M87",
+    "name": "Boeing/McDonnell Douglas MD-87"
+  },
+  {
+    "code": "M88",
+    "name": "Boeing/McDonnell Douglas MD-88"
+  },
+  {
+    "code": "M90",
+    "name": "Boeing/McDonnell Douglas MD-90"
+  },
+  {
+    "code": "MIH",
+    "name": "Mil"
+  },
+  {
+    "code": "MU2",
+    "name": "Mitsubishi MU-2"
+  },
+  {
+    "code": "ND2",
+    "name": "Aerospatiale/Nord 262"
+  },
+  {
+    "code": "NDC",
+    "name": "Aerospatiale SN601 Corvette"
+  },
+  {
+    "code": "NDE",
+    "name": "Aerospatiale/Eurocopter Ecureuil AS350/AS355"
+  },
+  {
+    "code": "PA1",
+    "name": "Piper light aircraft - single piston engine"
+  },
+  {
+    "code": "PA2",
+    "name": "Piper light aircraft - twin piston engines"
+  },
+  {
+    "code": "PAG",
+    "name": "Piper Light Aircraft"
+  },
+  {
+    "code": "PL2",
+    "name": "Pilatus PC-12"
+  },
+  {
+    "code": "PN6",
+    "name": "Partenavia P68"
+  },
+  {
+    "code": "S20",
+    "name": "Saab 2000"
+  },
+  {
+    "code": "SF3",
+    "name": "Saab SF-340"
+  },
+  {
+    "code": "SFB",
+    "name": "Saab SF-340B"
+  },
+  {
+    "code": "SSC",
+    "name": "Aerospatiale/British Aerospace Concorde (discontinued)"
+  },
+  {
+    "code": "SH3",
+    "name": "Shorts SD-330"
+  },
+  {
+    "code": "SH6",
+    "name": "Shorts SD-360"
+  },
+  {
+    "code": "S58",
+    "name": "Sikorsky S-58T"
+  },
+  {
+    "code": "S61",
+    "name": "Sikorsky S-61"
+  },
+  {
+    "code": "S76",
+    "name": "Sikorsky S-76"
+  },
+  {
+    "code": "SWM",
+    "name": "Fairchild Metro/Merlin"
+  },
+  {
+    "code": "T20",
+    "name": "Tupolev Tu-204/214"
+  },
+  {
+    "code": "TU3",
+    "name": "Tupolev Tu-134"
+  },
+  {
+    "code": "TU5",
+    "name": "Tupolev Tu-154"
+  },
+  {
+    "code": "TRN",
+    "name": "Non Aircraft - Train"
+  },
+  {
+    "code": "VCV",
+    "name": "Vickers Viscount"
+  },
+  {
+    "code": "WWP",
+    "name": "Israel Aircraft Industries 1124 Westwind"
+  },
+  {
+    "code": "YK2",
+    "name": "Yakovlev Yak-42"
+  },
+  {
+    "code": "YK4",
+    "name": "Yakovlev Yak-40"
+  },
+  {
+    "code": "YN2",
+    "name": "Yunshuji Y-12/Xian Y-12"
+  },
+  {
+    "code": "YN7",
+    "name": "Yunshuji Y-7/Harbin Y-7"
+  },
+  {
+    "code": "YS1",
+    "name": "NAMC YS-11"
+  }
+]
