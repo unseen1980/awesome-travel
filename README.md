@@ -125,6 +125,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Uber | Uber api  | [Go!](https://developer.uber.com/) |
 | Timezonedb | Time Zones api  | [Go!](https://timezonedb.com/api) |
 | WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
+| Webcams.travel API | Webcams.travel API  | [Go!](http://www.webcams.travel/developers/) |
 
 
 ## License
