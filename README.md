@@ -126,7 +126,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Timezonedb | Time Zones api  | [Go!](https://timezonedb.com/api) |
 | WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
 | Webcams.travel API | Webcams.travel API  | [Go!](http://www.webcams.travel/developers/) |
-
+| Sunset and sunrise API | Sunset and sunrise times API  | [Go!](http://sunrise-sunset.org/api) |
 
 ## License
 
