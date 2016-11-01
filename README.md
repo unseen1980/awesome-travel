@@ -24,6 +24,12 @@ Are you building a travel app? Then you might find this repository useful.
 | Flightstats | Flight data services api | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
 | Units | Units general API | [Go!](http://units.d8u.us) |
 
+### Airport services
+
+| API | Description | Link |
+|---|---|---|---|
+| FlySFO | FlySFO.com API | [Go!](http://www.flysfo.com/api-documentation) |
+
 ### Hotels / Rentals
 
 | API | Description | Link |
