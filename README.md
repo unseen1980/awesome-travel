@@ -89,6 +89,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|---|
 | Skyscanner | Skyscanner Currencies Service | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/Currencies) |
+| Fixer.io | JSON API for foreign exchange rates | [Go!](http://fixer.io/) |
 
 ### Map services
 
