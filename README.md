@@ -36,9 +36,7 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|---|
 | EAN | Expedia Affiliate Network | [Go!](http://developer.ean.com/) |
 | Hotwire | Hotwire Network | [Go!](http://developer.hotwire.com/) |
-| EasyToBook | Easytobook API | [Go!](http://www.etbxml.com/protocol/ApiFunctions.php) |
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
-| Ebookers | ebookers API | [Go!](http://affiliates.ebookers.com/news/new_ebookers_api_35/) |
 | TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
 | Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Homeaway | Rental property api | [Go!](https://www.homeaway.com/platform/developer-api)
