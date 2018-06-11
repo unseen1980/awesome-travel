@@ -4,7 +4,7 @@ Are you building a travel app? Then you might find this repository useful.
 ### Flights
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Skyscanner | Skyscanner for Business | [Go!](http://en.business.skyscanner.net/) |
 | Sabre | Sabre® Dev Studio | [Go!](https://developer.sabre.com/docs/read/REST_APIs) |
 | Galileo | Travelport Galileo API | [Go!](https://developer.travelport.com/app/developer-network/classic-apis) |
@@ -20,20 +20,20 @@ Are you building a travel app? Then you might find this repository useful.
 ### Flight data
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Flightstats | Flight data services api | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
 | Units | Units general API | [Go!](http://units.d8u.us) |
 
 ### Airport services
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | FlySFO | FlySFO.com API | [Go!](http://www.flysfo.com/api-documentation) |
 
 ### Hotels / Rentals
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | EAN | Expedia Affiliate Network | [Go!](http://developer.ean.com/) |
 | Hotwire | Hotwire Network | [Go!](http://developer.hotwire.com/) |
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
@@ -47,7 +47,7 @@ Are you building a travel app? Then you might find this repository useful.
 ### Car rentals
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Travelpd | Car Booking Engine | [Go!](http://www.travelpd.com/car-booking-engine) |
 | Skyscanner | Skyscanner Car Hire Live | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/CarHireLivePricing) |
 | Cartrawler | Car Booking Engine | [Go!](http://www.cartrawler.com/Cartrawler_Ajax_Booking_Engine.pdf) |
@@ -56,14 +56,14 @@ Are you building a travel app? Then you might find this repository useful.
 ### Events
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Active | Search for events, classes, campgrounds | [Go!](http://developer.active.com/) |
 | Kumutu | Adventure activities | [Go!](http://kumutu.com/api/methods) |
 
 ### Reviews
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Citygridmedia | Customer reviews api | [Go!](http://docs.citygridmedia.com/display/citygridv2/Reviews+API) |
 | Olery | Olery Review Data API | [Go!](http://www.olery.com/api/) |
@@ -71,28 +71,28 @@ Are you building a travel app? Then you might find this repository useful.
 ### Travel Planning
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | TripIt | Travel information api | [Go!](https://www.tripit.com/developer) |
 | Minube | Minube search API | [Go!](http://www.minube.com/api) |
 
 ### Guides
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Getyourguide |  City guides api | [Go!](https://api.getyourguide.com/) |
 | Iwannagothere |  Guides and routes api | [Go!](http://iwannagothere.com/api/index.html) |
 
 ### Currencies
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Skyscanner | Skyscanner Currencies Service | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/Currencies) |
 | Fixer.io | JSON API for foreign exchange rates | [Go!](http://fixer.io/) |
 
 ### Map services
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Google | Google maps services api | [Go!](https://developers.google.com/maps/) |
 | Microsoft | Bing maps API | [Go!](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) |
 | Mapbox | Mapbox web services | [Go!](https://www.mapbox.com/api-documentation/) |
@@ -103,7 +103,7 @@ Are you building a travel app? Then you might find this repository useful.
 ### Free stock photos
 
 | URL | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Pixabay  | Free images and videos | [Go!](https://pixabay.com/) |
 | Image Source | Royalty Free Stock Photos | [Go!](http://www.imagesource.com/royalty-free) |
 | Picjumbo  | Free stock photos | [Go!](https://www.picjumbo.com) |
@@ -114,13 +114,13 @@ Are you building a travel app? Then you might find this repository useful.
 ### Geolocation
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Ip-api | IP Geolocation API | [Go!](http://ip-api.com/docs/) |
 
 ### Other services
 
 | API | Description | Link |
-|---|---|---|---|
+|---|---|---|
 | Adventurelink | Trips finder api | [Go!](http://api.adventurelink.com/) |
 | Bestparking | Airport parking api | [Go!](http://www.bestparking.com/developers/) |
 | Evature | Evature Travel Search API  | [Go!](http://freeapi.evature.com/) |
