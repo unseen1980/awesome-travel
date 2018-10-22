@@ -41,7 +41,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Homeaway | Rental property api | [Go!](https://www.homeaway.com/platform/developer-api)
 | Stay22 | Hotels close to events api | [Go!](https://www.stay22.com/embed)
-| Zumata | Multi-Source Hotel Booking API | [Go!](https://www.zumata.com/products-what-we-do/products-hotel-booking-api/)
+| Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com/travel-solutions/hotel-api/)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
 
 ### Car rentals
