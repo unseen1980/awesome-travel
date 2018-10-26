@@ -57,7 +57,6 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Active | Search for events, classes, campgrounds | [Go!](http://developer.active.com/) |
-| Kumutu | Adventure activities | [Go!](http://kumutu.com/api/methods) |
 
 ### Reviews
 
@@ -125,7 +124,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Evature | Evature Travel Search API  | [Go!](http://freeapi.evature.com/) |
 | OAG | Airline schedules  | [Go!](http://www.oag.com/schedules/schedulesondemand) |
 | Flyontime | Flight times  | [Go!](http://www.flyontime.us/developers) |
-| Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
+|
 | Uber | Uber api  | [Go!](https://developer.uber.com/) |
 | Timezonedb | Time Zones api  | [Go!](https://timezonedb.com/api) |
 | WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
