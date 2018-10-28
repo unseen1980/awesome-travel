@@ -12,7 +12,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Amadeus | Amadeus Global Distribution System | [Go!](http://api.dev.amadeus.net/api/index.htm) |
 | Rome2rio | Rome2rio API partner program | [Go!](https://www.rome2rio.com/documentation/) |
 | Tgels | Tgels Airfares REST api | [Go!](http://www.tgels.com/tapi/) |
-| Travelfusion | Travelfusion search and book api | [Go!](http://xmldocs.travelfusion.com/home/search-and-book-api) |
+| Travelfusion | Travelfusion search and book API | [Go!](http://xmldocs.travelfusion.com/home/search-and-book-api) |
 | Ebookers | ebookers API | [Go!](https://www.ebookers.com/p/network-affiliate) |
 | Wego | Wego Flights API | [Go!](http://support.wan.travel/hc/en-us/articles/200191669) |
 | Allmyles | Allmyles Flights API | [Go!](http://docs.allmyles.apiary.io/#) |
@@ -64,23 +64,23 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|
-| Tripadvisor | Tripadvisor content api | [Go!](https://developer-tripadvisor.com/content-api/) |
-| Citygridmedia | Customer reviews api | [Go!](http://docs.citygridmedia.com/display/citygridv2/Reviews+API) |
+| Tripadvisor | Tripadvisor content API | [Go!](https://developer-tripadvisor.com/content-api/) |
+| Citygridmedia | Customer reviews API | [Go!](http://docs.citygridmedia.com/display/citygridv2/Reviews+API) |
 | Olery | Olery Review Data API | [Go!](http://www.olery.com/api/) |
 
 ### Travel Planning
 
 | API | Description | Link |
 |---|---|---|
-| TripIt | Travel information api | [Go!](https://www.tripit.com/developer) |
+| TripIt | Travel information API | [Go!](https://www.tripit.com/developer) |
 | Minube | Minube search API | [Go!](http://www.minube.com/api) |
 
 ### Guides
 
 | API | Description | Link |
 |---|---|---|
-| Getyourguide |  City guides api | [Go!](https://api.getyourguide.com/) |
-| Iwannagothere |  Guides and routes api | [Go!](http://iwannagothere.com/api/index.html) |
+| Getyourguide |  City guides API | [Go!](https://api.getyourguide.com/) |
+| Iwannagothere |  Guides and routes API | [Go!](http://iwannagothere.com/api/index.html) |
 
 ### Currencies
 
@@ -93,7 +93,7 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|
-| Google | Google maps services api | [Go!](https://developers.google.com/maps/) |
+| Google | Google maps services API | [Go!](https://developers.google.com/maps/) |
 | Microsoft | Bing maps API | [Go!](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) |
 | Mapbox | Mapbox web services | [Go!](https://www.mapbox.com/api-documentation/) |
 | Here | Interactive maps | [Go!](https://developer.here.com/develop/javascript-api) |
@@ -121,13 +121,13 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|
-| Adventurelink | Trips finder api | [Go!](http://api.adventurelink.com/) |
-| Bestparking | Airport parking api | [Go!](http://www.bestparking.com/developers/) |
+| Adventurelink | Trips finder API | [Go!](http://api.adventurelink.com/) |
+| Bestparking | Airport parking API | [Go!](http://www.bestparking.com/developers/) |
 | Evature | Evature Travel Search API  | [Go!](http://freeapi.evature.com/) |
 | OAG | Airline schedules  | [Go!](http://www.oag.com/schedules/schedulesondemand) |
 | Flyontime | Flight times  | [Go!](http://www.flyontime.us/developers) |
 | Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
-| Uber | Uber api  | [Go!](https://developer.uber.com/) |
+| Uber | Uber API  | [Go!](https://developer.uber.com/) |
 | Timezonedb | Time Zones api  | [Go!](https://timezonedb.com/api) |
 | WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
 | Webcams.travel API | Webcams.travel API  | [Go!](http://www.webcams.travel/developers/) |
