@@ -57,6 +57,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Active | Search for events, classes, campgrounds | [Go!](http://developer.active.com/) |
+| Gadventures | Adventure activities | [Go!](https://developers.gadventures.com/docs/index.html) |
 
 ### Reviews
 
