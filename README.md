@@ -22,7 +22,6 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Flightstats | Flight data services api | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
-| Units | Units general API | [Go!](http://units.d8u.us) |
 
 ### Airport services
 
@@ -80,7 +79,6 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Getyourguide |  City guides api | [Go!](https://api.getyourguide.com/) |
-| Iwannagothere |  Guides and routes api | [Go!](http://iwannagothere.com/api/index.html) |
 
 ### Currencies
 
@@ -123,7 +121,6 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|
 | Adventurelink | Trips finder api | [Go!](http://api.adventurelink.com/) |
 | Bestparking | Airport parking api | [Go!](http://www.bestparking.com/developers/) |
-| Evature | Evature Travel Search API  | [Go!](http://freeapi.evature.com/) |
 | OAG | Airline schedules  | [Go!](http://www.oag.com/schedules/schedulesondemand) |
 | Flyontime | Flight times  | [Go!](http://www.flyontime.us/developers) |
 | Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
