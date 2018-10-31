@@ -8166,7 +8166,7 @@
     "type": "small_airport",
     "name": "Bapi Airstrip",
     "latitude_deg": -7.743611111,
-    "longitude_deg": 147.0205556,
+    "longitude_deg": 147.0205556 ,
     "elevation_ft": 2930,
     "continent": "OC",
     "municipality": "Bapi"
