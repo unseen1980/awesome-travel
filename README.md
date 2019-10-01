@@ -5,12 +5,11 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|
-| Skyscanner | Skyscanner for Business | [Go!](https://partners.skyscanner.net/) |
+| Skyscanner | Skyscanner for Business | [Go!](https://skyscanner.github.io/slate/#api-documentation) |
 | Sabre | Sabre® Dev Studio | [Go!](https://developer.sabre.com/docs/read/REST_APIs) |
 | Galileo | Travelport Galileo API | [Go!](https://developer.travelport.com/app/developer-network/classic-apis) |
 | Amadeus | Amadeus Global Distribution System | [Go!](http://api.dev.amadeus.net/api/index.htm) |
 | Rome2rio | Rome2rio API partner program | [Go!](https://www.rome2rio.com/documentation/) |
-| Tgels | Tgels Airfares REST API | [Go!](http://www.tgels.com/tapi/) |
 | Travelfusion | Travelfusion search and book api | [Go!](http://xmldocs.travelfusion.com/home/search-and-book-api) |
 | Ebookers | ebookers API | [Go!](https://www.ebookers.com/p/network-affiliate) |
 | Wego | Wego Flights API | [Go!](http://support.wan.travel/hc/en-us/articles/200191669) |
@@ -41,6 +40,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Stay22 | Hotels Close to Events API | [Go!](https://www.stay22.com/embed)
 | Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com/travel-solutions/hotel-api/)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
+| Airbnb | Airbnb API | [Go!](https://www.airbnb.co.uk/partner)
 
 ### Car rentals
 
