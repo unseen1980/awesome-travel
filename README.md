@@ -121,7 +121,6 @@ Are you building a travel app? Then you might find this repository useful.
 | Adventurelink | Trips Finder API | [Go!](http://api.adventurelink.com/) |
 | Bestparking | Airport Parking API | [Go!](http://www.bestparking.com/developers/) |
 | OAG | Airline Schedules | [Go!](http://www.oag.com/schedules/schedulesondemand) |
-| Flyontime | Flight Times | [Go!](http://www.flyontime.us/developers) |
 | Inknowledge | Taxi Fare REST Service  | [Go!](http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx) |
 | Uber | Uber API  | [Go!](https://developer.uber.com/) |
 | Timezonedb | Time Zones API | [Go!](https://timezonedb.com/api) |
