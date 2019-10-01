@@ -40,6 +40,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Stay22 | Hotels Close to Events API | [Go!](https://www.stay22.com/embed)
 | Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com/travel-solutions/hotel-api/)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
+| Airbnb | Airbnb API | [Go!](https://www.airbnb.co.uk/partner)
 
 ### Car rentals
 
