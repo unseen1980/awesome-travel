@@ -47,7 +47,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Travelpd | Car Booking Engine | [Go!](http://www.travelpd.com/car-booking-engine) |
-| Skyscanner | Skyscanner Car Hire Live | [Go!](https://skyscanner.github.io/slate) |
+| Skyscanner | Skyscanner Car Hire Live | [Go!](https://skyscanner.github.io/slate/) |
 | Cartrawler | Car Booking Engine (signup for partnership required) | [Go!](https://www.cartrawler.com/ct/) |
 | Allmyles | Allmyles Flights API | [Go!](https://allmyles.docs.apiary.io/) |
 
