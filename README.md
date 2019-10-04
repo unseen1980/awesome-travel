@@ -114,6 +114,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Ip-api | IP Geolocation API | [Go!](http://ip-api.com/docs/) |
+| ipgeolocation | Free IP Geolocation API | [Go!](https://ipgeolocation.io/) |
 
 ### Other services
 
