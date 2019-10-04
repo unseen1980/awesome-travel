@@ -31,14 +31,14 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|
-| EAN | Expedia Affiliate Network | [Go!](http://developer.ean.com/) |
+| EAN | Expedia Affiliate Network | [Go!](https://developer.expediapartnersolutions.com/) |
 | Hotwire | Hotwire Network | [Go!](http://developer.hotwire.com/) |
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
 | TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
 | Tripadvisor | Tripadvisor Content API | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Homeaway | Rental Property API | [Go!](https://www.homeaway.com/platform/developer-api)
-| Stay22 | Hotels Close to Events API | [Go!](https://www.stay22.com/embed)
-| Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com/travel-solutions/hotel-api/)
+| Stay22 | Hotels Close to Events API | [Go!](https://www.stay22.com/docs)
+| Zumata | Multi-Source Hotel Booking API | [Go!](https://www.zumata.com/travel-solutions/hotel-api/)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
 | Airbnb | Airbnb API | [Go!](https://www.airbnb.co.uk/partner)
 
@@ -47,9 +47,9 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Travelpd | Car Booking Engine | [Go!](http://www.travelpd.com/car-booking-engine) |
-| Skyscanner | Skyscanner Car Hire Live | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/CarHireLivePricing) |
-| Cartrawler | Car Booking Engine (signup for partnership required) | [Go!](http://www.cartrawler.com) |
-| Allmyles | Allmyles Flights API | [Go!](http://docs.allmyles.apiary.io/#) |
+| Skyscanner | Skyscanner Car Hire Live | [Go!](https://skyscanner.github.io/slate) |
+| Cartrawler | Car Booking Engine (signup for partnership required) | [Go!](https://www.cartrawler.com/ct/) |
+| Allmyles | Allmyles Flights API | [Go!](https://allmyles.docs.apiary.io/) |
 
 ### Events
 
@@ -63,7 +63,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Tripadvisor | Tripadvisor Content API | [Go!](https://developer-tripadvisor.com/content-api/) |
-| Citygridmedia | Customer Reviews API | [Go!](http://docs.citygridmedia.com/display/citygridv2/Reviews+API) |
+| Citygridmedia | Customer Reviews API | [Go!](https://citygridmedia.atlassian.net/wiki/spaces/citygridv2/overview) |
 | Olery | Olery Review Data API | [Go!](http://www.olery.com/api/) |
 
 ### Travel Planning
@@ -83,7 +83,7 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|
-| Skyscanner | Skyscanner Currencies Service | [Go!](http://business.skyscanner.net/portal/en-GB/Documentation/Currencies) |
+| Skyscanner | Skyscanner Currencies Service | [Go!](https://skyscanner.github.io/slate/#currencies) |
 | Fixer.io | JSON API for Foreign Exchange Rates | [Go!](http://fixer.io/) |
 | Exchange Rates API | API for current and historical foreign exchange rates published by the ECB | [Go!](https://exchangeratesapi.io/) |
 
@@ -91,12 +91,12 @@ Are you building a travel app? Then you might find this repository useful.
 
 | API | Description | Link |
 |---|---|---|
-| Google | Google Maps Services API | [Go!](https://developers.google.com/maps/) |
-| Microsoft | Bing Maps API | [Go!](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) |
-| Mapbox | Mapbox Web Services | [Go!](https://www.mapbox.com/api-documentation/) |
+| Google | Google Maps Services API | [Go!](https://cloud.google.com/maps-platform/) |
+| Microsoft | Bing Maps API | [Go!](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api) |
+| Mapbox | Mapbox Web Services | [Go!](https://docs.mapbox.com/api/) |
 | Here | Interactive Maps | [Go!](https://developer.here.com/develop/javascript-api) |
-| Viamichelin | Maps, Routing and Geocoding | [Go!](http://dev.viamichelin.com/) |
-| Factual | Location Data | [Go!](https://www.factual.com/solutions/developers) |
+| Viamichelin | Maps, Routing and Geocoding | [Go!](https://api.viamichelin.com/) |
+| Factual | Location Data | [Go!](https://developer.factual.com/docs/places-overview) |
 
 ### Free stock photos
 
@@ -104,7 +104,7 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|
 | Pixabay  | Free Images and Videos | [Go!](https://pixabay.com/) |
 | Image Source | Royalty Free Stock Photos | [Go!](http://www.imagesource.com/royalty-free) |
-| Picjumbo  | Free Stock Photos | [Go!](https://www.picjumbo.com) |
+| Picjumbo  | Free Stock Photos | [Go!](https://picjumbo.com/) |
 | Unsplash  | Free Stock Photos | [Go!](https://unsplash.com/) |
 | Flickr  | Photos Service | [Go!](https://www.flickr.com/services/api/) |
 | Pexels  | Free Stock Photos | [Go!](https://www.pexels.com/) |
@@ -120,7 +120,7 @@ Are you building a travel app? Then you might find this repository useful.
 | API | Description | Link |
 |---|---|---|
 | Adventurelink | Trips Finder API | [Go!](http://api.adventurelink.com/) |
-| Bestparking | Airport Parking API | [Go!](http://www.bestparking.com/developers/) |
+| Arrive | Airport Parking API | [Go!](http://developer.parkwhiz.com/) |
 | OAG | Airline Schedules | [Go!](http://www.oag.com/schedules/schedulesondemand) |
 | TaxiMe | Taxi Fare REST Service | [Go!] (http://www.taxime.com/developers/) |
 | Uber | Uber API  | [Go!](https://developer.uber.com/) |
