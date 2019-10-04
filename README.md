@@ -122,6 +122,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Adventurelink | Trips Finder API | [Go!](http://api.adventurelink.com/) |
 | Arrive | Airport Parking API | [Go!](http://developer.parkwhiz.com/) |
 | OAG | Airline Schedules | [Go!](http://www.oag.com/schedules/schedulesondemand) |
+| TaxiMe | Taxi Fare REST Service | [Go!] (http://www.taxime.com/developers/) |
 | Uber | Uber API  | [Go!](https://developer.uber.com/) |
 | Timezonedb | Time Zones API | [Go!](https://timezonedb.com/api) |
 | WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
