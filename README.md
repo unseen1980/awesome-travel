@@ -14,6 +14,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Ebookers | ebookers API | [Go!](https://www.ebookers.com/p/network-affiliate) |
 | Wego | Wego Flights API | [Go!](http://support.wan.travel/hc/en-us/articles/200191669) |
 | Allmyles | Allmyles Flights API | [Go!](http://docs.allmyles.apiary.io/#) |
+| Trawex | Trawex Universal Flight API | [Go!](https://www.trawex.com/flight-api.php) |
 
 ### Flight data
 
