@@ -7,7 +7,7 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|
 | Skyscanner | Skyscanner for Business | [Go!](https://skyscanner.github.io/slate/#api-documentation) |
 | Sabre | Sabre® Dev Studio | [Go!](https://developer.sabre.com/docs/read/REST_APIs) |
-| Galileo | Travelport Galileo API | [Go!](https://developer.travelport.com/app/developer-network/classic-apis) |
+| Galileo | Travelopro Galileo GDS API | [Go!](https://www.travelopro.com/galileo-gds-api-integration.php) |
 | Amadeus | Amadeus Global Distribution System | [Go!](http://api.dev.amadeus.net/api/index.htm) |
 | Rome2rio | Rome2rio API partner program | [Go!](https://www.rome2rio.com/documentation/) |
 | Travelfusion | Travelfusion search and book api | [Go!](http://xmldocs.travelfusion.com/home/search-and-book-api) |
