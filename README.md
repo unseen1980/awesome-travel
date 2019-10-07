@@ -66,6 +66,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Tripadvisor | Tripadvisor Content API | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Citygridmedia | Customer Reviews API | [Go!](https://citygridmedia.atlassian.net/wiki/spaces/citygridv2/overview) |
 | Olery | Olery Review Data API | [Go!](http://www.olery.com/api/) |
+| Yelp | Yelp Fusion API | [Go!](https://www.yelp.com/developers/documentation/v3) |
 
 ### Travel Planning
 
