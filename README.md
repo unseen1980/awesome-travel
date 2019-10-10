@@ -111,6 +111,8 @@ Are you building a travel app? Then you might find this repository useful.
 | Flickr  | Photos Service | [Go!](https://www.flickr.com/services/api/) |
 | Pexels  | Free Stock Photos | [Go!](https://www.pexels.com/) |
 | Freepik | Free Vectors, Stock Photos | [Go!](https://www.freepik.com/) |
+| StockSnap | Beautiful free stock photos | [Go!](https://stocksnap.io/) |
+
 
 ### Geolocation
 
