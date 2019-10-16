@@ -99,6 +99,7 @@ Are you building a travel app? Then you might find this repository useful.
 | Here | Interactive Maps | [Go!](https://developer.here.com/develop/javascript-api) |
 | Viamichelin | Maps, Routing and Geocoding | [Go!](https://api.viamichelin.com/) |
 | Factual | Location Data | [Go!](https://developer.factual.com/docs/places-overview) |
+| OpenStreetMap | Multiple OSM APIs for Geodata, Mapping, etc. | [Go!](https://wiki.openstreetmap.org/wiki/API) |
 
 ### Free stock photos
 
