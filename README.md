@@ -74,6 +74,8 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|
 | TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
 | Minube | Minube search API | [Go!](http://papi.minube.com/docs/) |
+| Amadeus | Points of Interest API | [Go!](https://developers.amadeus.com/self-service/category/destination-content/api-doc/points-of-interest)
+
 
 ### Guides
 
