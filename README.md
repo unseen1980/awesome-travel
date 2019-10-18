@@ -139,6 +139,7 @@ Are you building a travel app? Then you might find this repository useful.
 | WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
 | Webcams.travel API | Webcams.travel API  | [Go!](http://www.webcams.travel/developers/) |
 | Sunset and sunrise API | Sunset and Sunrise Times API  | [Go!](http://sunrise-sunset.org/api) |
+| Weather & Forecast API | OpenWeather API  | [Go!](https://openweathermap.org/api) |
 
 ## License
 
