@@ -58,6 +58,7 @@ Are you building a travel app? Then you might find this repository useful.
 |---|---|---|
 | Active | Search for Events, Classes, Campgrounds | [Go!](http://developer.active.com/) |
 | Gadventures | Adventure Activities | [Go!](https://developers.gadventures.com/docs/index.html) |
+| PredictHQ | Events API for Travel | [Go!](https://www.predicthq.com/events/travel) |
 
 ### Reviews
 
