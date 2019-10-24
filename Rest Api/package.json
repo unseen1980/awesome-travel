@@ -22,7 +22,7 @@
         "jade": "~1.11.0",
         "load-grunt-tasks": "^3.2.0",
         "lodash": ">=4.17.13",
-        "mongoose": "^4.1.5",
+        "mongoose": ">=5.7.5",
         "morgan": ">=1.9.1",
         "q": "^1.4.1",
         "serve-favicon": "~2.3.0",
