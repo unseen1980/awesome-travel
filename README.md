@@ -1,5 +1,11 @@
-# TravelResources
-Are you building a travel app? Then you might find this repository useful.
+<div align="center">
+	<div>
+		<img width="600" src="http://www.devacron.com/wp-content/uploads/2020/02/airplane_logo.png" alt="Awesome Travel">
+	</div>
+</div>
+
+# Awesome-Travel
+A curated list of awesome travel resources to help you build the next travel app.
 
 ### Flights
 
