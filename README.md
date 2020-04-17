@@ -58,6 +58,14 @@ A curated list of awesome travel resources to help you build the next travel app
 | Cartrawler | Car Booking Engine (signup for partnership required) | [Go!](https://www.cartrawler.com/ct/) |
 | Allmyles | Allmyles Flights API | [Go!](https://allmyles.docs.apiary.io/) |
 
+### Yacht rentals
+
+| API | Description | Link |
+|---|---|---|
+| MMK Systems | Booking Manager API | [Go!](https://app.swaggerhub.com/apis-docs/mmksystems/bm-api/2.0.0) |
+| Sedna | Sedna API. Сan give a description for free | [Go!](https://www.sednasystem.io/our-services/sedna-api/) |
+| NauSYS | NauSYS API. Сan give a description for free | [Go!](https://www.nausys.com/api-data-stream/) |
+
 ### Events
 
 | API | Description | Link |
