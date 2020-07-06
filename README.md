@@ -39,6 +39,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API | Description | Link |
 |---|---|---|
 | EAN | Expedia Affiliate Network | [Go!](https://developer.expediapartnersolutions.com/) |
+| Hotels.com | Hotels.com API | [Go!](https://rapidapi.com/apidojo/api/hotels4) |
 | Hotwire | Hotwire Network | [Go!](http://developer.hotwire.com/) |
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
 | TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
