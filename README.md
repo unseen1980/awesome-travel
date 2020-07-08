@@ -32,7 +32,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API | Description | Link |
 |---|---|---|
-| FlySFO | FlySFO.com API | [Go!](https://developers.flysfo.com/index/) |
+| FlySFO | FlySFO.com API | [Go!](https://developers.flysfo.com/index) |
 
 ### Hotels / Rentals
 
