@@ -32,7 +32,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API | Description | Link |
 |---|---|---|
-| FlySFO | FlySFO.com API | [Go!](http://www.flysfo.com/api-documentation) |
+| FlySFO | FlySFO.com API | [Go!](https://developers.flysfo.com/index) |
 
 ### Hotels / Rentals
 
@@ -46,7 +46,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Tripadvisor | Tripadvisor Content API | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Homeaway | Rental Property API | [Go!](https://www.homeaway.com/platform/developer-api)
 | Stay22 | Hotels Close to Events API | [Go!](https://www.stay22.com/docs)
-| Zumata | Multi-Source Hotel Booking API | [Go!](https://www.zumata.com/travel-solutions/hotel-api/)
+| Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
 | Airbnb | Airbnb API | [Go!](https://www.airbnb.co.uk/partner)
 
