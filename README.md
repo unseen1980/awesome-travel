@@ -146,7 +146,6 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API | Description | Link |
 |---|---|---|
-| Adventurelink | Trips Finder API | [Go!](http://api.adventurelink.com/) |
 | Arrive | Airport Parking API | [Go!](http://developer.parkwhiz.com/) |
 | OAG | Airline Schedules | [Go!](http://www.oag.com/schedules/schedulesondemand) |
 | TaxiMe | Taxi Fare REST Service | [Go!](http://www.taxime.com/developers/) |
