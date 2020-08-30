@@ -44,7 +44,6 @@ A curated list of awesome travel resources to help you build the next travel app
 | Lastminute | lastminute.com Partner Connect  | [Go!](http://connect.lastminute.com/Developer) |
 | TIXIK | TIXIK.com API | [Go!](http://www.tixik.com/info/api/) |
 | Tripadvisor | Tripadvisor Content API | [Go!](https://developer-tripadvisor.com/content-api/) |
-| Homeaway | Rental Property API | [Go!](https://www.homeaway.com/platform/developer-api)
 | Stay22 | Hotels Close to Events API | [Go!](https://www.stay22.com/docs)
 | Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
