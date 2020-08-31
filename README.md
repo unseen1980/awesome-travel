@@ -151,7 +151,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Uber | Uber API  | [Go!](https://developer.uber.com/) |
 | Timezonedb | Time Zones API | [Go!](https://timezonedb.com/api) |
 | WorldMate | WorldMate Email Parsing API  | [Go!](https://developers.worldmate.com/) |
-| Webcams.travel API | Webcams.travel API  | [Go!](http://www.webcams.travel/developers/) |
+| Windy API | Weather forecast API  | [Go!](https://api.windy.com/) |
 | Sunset and sunrise API | Sunset and Sunrise Times API  | [Go!](http://sunrise-sunset.org/api) |
 | Weather & Forecast API | OpenWeather API  | [Go!](https://openweathermap.org/api) |
 | TransportAPI | Transport data and development | [Go!](https://developer.transportapi.com/) |
