@@ -47,6 +47,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
 | Airbnb | Airbnb API | [Go!](https://www.airbnb.co.uk/partner)
+| Booking.com | Booking.com API | [Go!](https://developers.booking.com/api)
 
 ### Car rentals
 
