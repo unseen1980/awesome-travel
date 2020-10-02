@@ -97,7 +97,7 @@ A curated list of awesome travel resources to help you build the next travel app
 |---|---|---|
 | Getyourguide | City Guides API | [Go!](https://api.getyourguide.com/) |
 | Sygic | Sygic Travel API | [Go!](http://docs.sygictravelapi.com/) |
-| Triposo | travel content API | [Go!](https://www.triposo.com/api/) |
+| Triposo | Travel Content API | [Go!](https://www.triposo.com/api/) |
 
 ### Currencies
 
