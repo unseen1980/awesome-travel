@@ -95,7 +95,9 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API | Description | Link |
 |---|---|---|
-| Getyourguide |  City Guides API | [Go!](https://api.getyourguide.com/) |
+| Getyourguide | City Guides API | [Go!](https://api.getyourguide.com/) |
+| Sygic | Sygic Travel API | [Go!](http://docs.sygictravelapi.com/) |
+| Triposo | Travel Content API | [Go!](https://www.triposo.com/api/) |
 
 ### Currencies
 
@@ -117,6 +119,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Viamichelin | Maps, Routing and Geocoding | [Go!](https://api.viamichelin.com/) |
 | Factual | Location Data | [Go!](https://developer.factual.com/docs/places-overview) |
 | OpenStreetMap | Multiple OSM APIs for Geodata, Mapping, etc. | [Go!](https://wiki.openstreetmap.org/wiki/API) |
+| Arcgis | ArcGIS REST API | [Go!](https://developers.arcgis.com/) |
 
 ### Free stock photos
 
