@@ -22,6 +22,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Allmyles | Allmyles Flights API | [Go!](http://docs.allmyles.apiary.io/#) |
 | Trawex | Trawex Universal Flight API | [Go!](https://www.trawex.com/flight-api.php) |
 | ADS-B Exchange | ADS-B Exchange API | [Go!](https://www.adsbexchange.com/data/) |
+|Tgels|Tgels API| [Go!](https://www.programmableweb.com/api/tgels)|
 
 ### Flight data
 
@@ -48,7 +49,8 @@ A curated list of awesome travel resources to help you build the next travel app
 | Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
 | Airbnb | Airbnb API | [Go!](https://www.airbnb.co.uk/partner)
-| Booking.com | Booking.com API | [Go!](https://developers.booking.com/api)
+| Booking.com | Booking.com API | [Go!](https://developers.booking.com/api)|
+|WALK SCORE TRAVEL TIME |Travel time calculatio API|[Go!](https://www.programmableweb.com/api/walk-score-travel-time)
 
 ### Car rentals
 
