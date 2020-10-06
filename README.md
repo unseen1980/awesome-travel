@@ -49,8 +49,8 @@ A curated list of awesome travel resources to help you build the next travel app
 | Zumata | Multi-Source Hotel Booking API | [Go!](https://zumata.com)
 | Allmyles | Allmyles Hotels API | [Go!](http://docs.allmyles.apiary.io/#) |
 | Airbnb | Airbnb API | [Go!](https://www.airbnb.co.uk/partner)
-| Booking.com | Booking.com API | [Go!](https://developers.booking.com/api)|
-|WALK SCORE TRAVEL TIME |Travel time calculatio API|[Go!](https://www.programmableweb.com/api/walk-score-travel-time)
+| Booking.com | Booking.com API | [Go!](https://developers.booking.com/api)
+
 
 ### Car rentals
 
@@ -161,6 +161,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Sunset and sunrise API | Sunset and Sunrise Times API  | [Go!](http://sunrise-sunset.org/api) |
 | Weather & Forecast API | OpenWeather API  | [Go!](https://openweathermap.org/api) |
 | TransportAPI | Transport data and development | [Go!](https://developer.transportapi.com/) |
+|Walk Score Travel Time |Travel time calculation API|[Go!](https://www.programmableweb.com/api/walk-score-travel-time)
 
 ## License
 
