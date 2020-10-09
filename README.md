@@ -22,6 +22,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Allmyles | Allmyles Flights API | [Go!](http://docs.allmyles.apiary.io/#) |
 | Trawex | Trawex Universal Flight API | [Go!](https://www.trawex.com/flight-api.php) |
 | ADS-B Exchange | ADS-B Exchange API | [Go!](https://www.adsbexchange.com/data/) |
+| Aviation Edge | Global Database and API| [Go!](https://aviation-edge.com/flight-schedule-and-timetable-of-airlines-and-airports/?gclid=Cj0KCQjw8fr7BRDSARIsAK0Qqr5FK-4ZxZrAq35ne1SIQg8XvvRzhOignNb-F5PBwUOpgctJWsJKszAaAka9EALw_wcB)
 
 ### Flight data
 
