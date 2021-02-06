@@ -145,6 +145,7 @@ A curated list of awesome travel resources to help you build the next travel app
 |---|---|---|
 | Ip-api | IP Geolocation API | [Go!](http://ip-api.com/docs/) |
 | ipgeolocation | Free IP Geolocation API | [Go!](https://ipgeolocation.io/) |
+| ipstack | Locate and identify website visitors by IP address | [Go!](https://ipstack.com/) |
 
 ### Other services
 
