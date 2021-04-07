@@ -76,7 +76,14 @@ A curated list of awesome travel resources to help you build the next travel app
 | Gadventures | Adventure Activities | [Go!](https://developers.gadventures.com/docs/index.html) |
 | PredictHQ | Events API for Travel | [Go!](https://www.predicthq.com/events/travel) |
 
-### Reviews
+### Destinations/Cities/Countries Content
+
+| API | Description | Link |
+|---|---|---|
+| RoadGoat | Content API for 4.3M cities, towns, countries, & neighborhoods | [Go!](https://www.roadgoat.com/business/cities-api) |
+| Lonely Planet | Editorial content API | [Go!](https://docs.dev.content-api.lonelyplanet.com/#introduction) |
+
+### Points of Interest (POIs) Content
 
 | API | Description | Link |
 |---|---|---|
@@ -84,23 +91,26 @@ A curated list of awesome travel resources to help you build the next travel app
 | Citygridmedia | Customer Reviews API | [Go!](https://citygridmedia.atlassian.net/wiki/spaces/citygridv2/overview) |
 | Olery | Olery Review Data API | [Go!](http://www.olery.com/api/) |
 | Yelp | Yelp Fusion API | [Go!](https://www.yelp.com/developers/documentation/v3) |
+| Amadeus | Points of Interest API | [Go!](https://developers.amadeus.com/self-service/category/destination-content/api-doc/points-of-interest)
+| Minube | Minube search API | [Go!](http://papi.minube.com/docs/) |
+| Foursquare | Foursquare Places API | [Go!](https://foursquare.com/) |
+| Sygic | Sygic Travel API | [Go!](http://docs.sygictravelapi.com/) |
+| Triposo | Travel Content API | [Go!](https://www.triposo.com/api/) |
 
-### Travel Planning
+### Itinerary
 
 | API | Description | Link |
 |---|---|---|
 | TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
-| Minube | Minube search API | [Go!](http://papi.minube.com/docs/) |
-| Amadeus | Points of Interest API | [Go!](https://developers.amadeus.com/self-service/category/destination-content/api-doc/points-of-interest)
 
 
-### Guides
+### Tours
 
 | API | Description | Link |
 |---|---|---|
 | Getyourguide | City Guides API | [Go!](https://api.getyourguide.com/) |
-| Sygic | Sygic Travel API | [Go!](http://docs.sygictravelapi.com/) |
-| Triposo | Travel Content API | [Go!](https://www.triposo.com/api/) |
+| Viator | Tours API | [Go!](https://docs.viator.com/partner-api/merchant/technical/) |
+
 
 ### Currencies
 
