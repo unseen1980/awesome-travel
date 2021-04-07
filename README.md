@@ -97,7 +97,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Sygic | Sygic Travel API | [Go!](http://docs.sygictravelapi.com/) |
 | Triposo | Travel Content API | [Go!](https://www.triposo.com/api/) |
 
-### Itenirary
+### Itinerary
 
 | API | Description | Link |
 |---|---|---|
