@@ -80,7 +80,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API | Description | Link |
 |---|---|---|
-| RoadGoat | Cities content & photos API | [Go!](https://www.roadgoat.com/business/cities-api) |
+| RoadGoat | Content API for 4.3M cities, towns, countries, & neighborhoods | [Go!](https://www.roadgoat.com/business/cities-api) |
 | Lonely Planet | Editorial content API | [Go!](https://docs.dev.content-api.lonelyplanet.com/#introduction) |
 
 ### Points of Interest (POIs) Content
