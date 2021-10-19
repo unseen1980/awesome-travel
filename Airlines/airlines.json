@@ -24,7 +24,7 @@
     "icao": "RNX",
     "callsign": "NEXTIME",
     "country": "South Africa",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "2 Sqn No 1 Elementary Flying Training School",
@@ -114,7 +114,7 @@
     "icao": "AAA",
     "callsign": "ANSETT",
     "country": "Australia",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Abacus International",
@@ -186,7 +186,7 @@
     "icao": "AAF",
     "callsign": "AIGLE AZUR",
     "country": "France",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aloha Airlines",
@@ -195,7 +195,7 @@
     "icao": "AAH",
     "callsign": "ALOHA",
     "country": "United States",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Alaska Island Air",
@@ -292,7 +292,7 @@
     "alias": null,
     "iata": "Q9",
     "icao": "AFU",
-    "callsign": null,
+    "callsign": "AFRINAT",
     "country": "Gambia",
     "is_active": false
   },
@@ -378,7 +378,7 @@
     "is_active": true
   },
   {
-    "name": "Abaet",
+    "name": "Abaeté",
     "alias": null,
     "iata": null,
     "icao": "ABJ",
@@ -606,8 +606,8 @@
     "name": "Air Tindi",
     "alias": null,
     "iata": "8T",
-    "icao": null,
-    "callsign": null,
+    "icao": "TID",
+    "callsign": "TINDI",
     "country": "Canadian Territories",
     "is_active": true
   },
@@ -645,7 +645,7 @@
     "icao": "ADE",
     "callsign": "ADA AIR",
     "country": "Albania",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aerea Flying Training Organization",
@@ -744,7 +744,7 @@
     "icao": "ADR",
     "callsign": "ADRIA",
     "country": "Slovenia",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aviones de Sonora",
@@ -834,7 +834,7 @@
     "icao": "AEB",
     "callsign": "AEROBEN",
     "country": "Benin",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aerocesar",
@@ -951,7 +951,7 @@
     "icao": "AEL",
     "callsign": "AIR EUROPE",
     "country": "Italy",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Alma",
@@ -983,11 +983,11 @@
   {
     "name": "ACES Colombia",
     "alias": null,
-    "iata": null,
+    "iata": "VX",
     "icao": "AES",
     "callsign": "ACES",
     "country": "Colombia",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aeronautical Radio of Thailand",
@@ -1005,7 +1005,7 @@
     "icao": "AEU",
     "callsign": "FLYSTAR",
     "country": "United Kingdom",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aeroventas",
@@ -1023,7 +1023,7 @@
     "icao": "AEW",
     "callsign": "AEROSVIT",
     "country": "Ukraine",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Airway Express",
@@ -1041,7 +1041,7 @@
     "icao": "AEY",
     "callsign": "AIR ITALY",
     "country": "Italy",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aerial Transit Company",
@@ -1185,7 +1185,7 @@
     "icao": "BON",
     "callsign": "AIR BOSNA",
     "country": "Bosnia and Herzegovina",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Bravo",
@@ -1374,7 +1374,7 @@
     "icao": "NMB",
     "callsign": "NAMIBIA",
     "country": "Namibia",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Intersalonika",
@@ -1581,7 +1581,7 @@
     "icao": "AGX",
     "callsign": "GENEX",
     "country": "Serbia",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Atlantic Coast Airlines",
@@ -1602,13 +1602,13 @@
     "is_active": false
   },
   {
-    "name": "Aeroper",
+    "name": "Aeroperú",
     "alias": null,
     "iata": "PL",
     "icao": "PLI",
     "callsign": "Aeroperu",
     "country": "Peru",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Atlas Blue",
@@ -1617,7 +1617,7 @@
     "icao": "BMM",
     "callsign": "ATLAS BLUE",
     "country": "Morocco",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aero Banobras",
@@ -1779,7 +1779,7 @@
     "icao": "AIA",
     "callsign": "AVIES",
     "country": "Estonia",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Airbus Industrie",
@@ -1865,9 +1865,9 @@
   {
     "name": "Airblue",
     "alias": null,
-    "iata": "ED",
+    "iata": "PA",
     "icao": "ABQ",
-    "callsign": "PAKBLUE",
+    "callsign": "AIRBLUE",
     "country": "Pakistan",
     "is_active": true
   },
@@ -1883,11 +1883,11 @@
   {
     "name": "Airlift International",
     "alias": null,
-    "iata": null,
+    "iata": "RD",
     "icao": "AIR",
     "callsign": "AIRLIFT",
     "country": "United States",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Airest",
@@ -1923,7 +1923,7 @@
     "icao": "BER",
     "callsign": "AIR BERLIN",
     "country": "Germany",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Brousse",
@@ -1977,7 +1977,7 @@
     "icao": "BUB",
     "callsign": "BOURBON",
     "country": "Reunion",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Atlanta Icelandic",
@@ -2148,7 +2148,7 @@
     "icao": "AJM",
     "callsign": "JAMAICA",
     "country": "Jamaica",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air One",
@@ -2157,7 +2157,7 @@
     "icao": "ADH",
     "callsign": "HERON",
     "country": "Italy",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Sahara",
@@ -2166,7 +2166,7 @@
     "icao": "RSH",
     "callsign": "SAHARA",
     "country": "India",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Malta",
@@ -2360,9 +2360,9 @@
   {
     "name": "Air Kiribati",
     "alias": null,
-    "iata": "4A",
+    "iata": "IK",
     "icao": "AKL",
-    "callsign": null,
+    "callsign": "KIRIBATI",
     "country": "Kiribati",
     "is_active": true
   },
@@ -2526,14 +2526,14 @@
     "icao": "AWE",
     "callsign": "CACTUS",
     "country": "United States",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Wisconsin",
     "alias": null,
     "iata": "ZW",
     "icao": "AWI",
-    "callsign": "AIR WISCONSIN",
+    "callsign": "WISCONSIN",
     "country": "United States",
     "is_active": true
   },
@@ -2571,7 +2571,7 @@
     "icao": "TAK",
     "callsign": "TATARSTAN",
     "country": "Russia",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Allegheny Commuter Airlines",
@@ -2580,7 +2580,7 @@
     "icao": "ALO",
     "callsign": "ALLEGHENY",
     "country": "United States",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Alpliner AG",
@@ -2648,7 +2648,7 @@
   {
     "name": "Air Sunshine",
     "alias": null,
-    "iata": null,
+    "iata": "YI",
     "icao": "RSI",
     "callsign": "AIR SUNSHINE",
     "country": "United States",
@@ -2684,11 +2684,11 @@
   {
     "name": "Air Libert",
     "alias": null,
-    "iata": "VD",
-    "icao": null,
-    "callsign": null,
+    "iata": "IJ",
+    "icao": "LIB",
+    "callsign": "LIBERTE",
     "country": "France",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Lithuania",
@@ -2720,7 +2720,7 @@
   {
     "name": "Air Maldives",
     "alias": null,
-    "iata": null,
+    "iata": "L6",
     "icao": "AMI",
     "callsign": "AIR MALDIVES",
     "country": "Maldives",
@@ -2748,10 +2748,10 @@
     "name": "Air Malawi",
     "alias": null,
     "iata": "QM",
-    "icao": "AML",
+    "icao": "AIM",
     "callsign": "MALAWI",
     "country": "Malawi",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Aeroputul International Marculesti",
@@ -2802,10 +2802,10 @@
     "name": "Air Sicilia",
     "alias": null,
     "iata": "BM",
-    "icao": null,
-    "callsign": null,
+    "icao": "SIC",
+    "callsign": "AIR SICILIA",
     "country": "Italy",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Specialties Corporation",
@@ -2828,11 +2828,11 @@
   {
     "name": "ATA Airlines",
     "alias": null,
-    "iata": null,
+    "iata": "TZ",
     "icao": "AMT",
     "callsign": "AMTRAN",
     "country": "United States",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Air Macau",
@@ -2846,9 +2846,9 @@
   {
     "name": "AMC Airlines",
     "alias": null,
-    "iata": null,
+    "iata": "YJ",
     "icao": "AMV",
-    "callsign": null,
+    "callsign": "AMC AIRLINES",
     "country": "Egypt",
     "is_active": true
   },
@@ -3021,7 +3021,7 @@
     "icao": "ANK",
     "callsign": "ANK AIR",
     "country": "Japan",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Antares Airtransport",
@@ -3336,7 +3336,7 @@
     "icao": "SMX",
     "callsign": "ALIEXPRESS",
     "country": "Italy",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Asia Overnight Express",
@@ -3471,7 +3471,7 @@
     "icao": "ARF",
     "callsign": "Aero Fox",
     "country": "Germany",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "ACM Aviation",
@@ -3570,7 +3570,7 @@
     "icao": "APW",
     "callsign": "BIG A",
     "country": "United States",
-    "is_active": true
+    "is_active": false
   },
   {
     "name": "Apex Air Cargo",
