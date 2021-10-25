@@ -4,13 +4,12 @@
     "airlines": [
       "A3",
       "AC",
+      "AI",
       "AV",
+      "BR",
       "CA",
       "CM",
       "ET",
-      "JJ",
-      "JP",
-      "KF",
       "LH",
       "LO",
       "LX",
@@ -20,62 +19,52 @@
       "OS",
       "OU",
       "OZ",
-      "PZ",
       "SA",
       "SK",
       "SN",
       "SQ",
-      "TA",
       "TG",
       "TK",
       "TP",
       "UA",
-      "US"
+      "ZH"
     ]
   },
   {
     "name": "oneworld",
     "airlines": [
-      "4M",
       "AA",
-      "AB",
+      "AS",
+      "AT",
+      "AY",
       "BA",
       "CX",
-      "AY",
-      "HG",
       "IB",
-      "JC",
       "JL",
-      "JO",
-      "KA",
-      "LA",
       "LP",
-      "MA",
-      "MN",
-      "MX",
-      "NU",
+      "MH",
       "QF",
+      "QR",
       "RJ",
       "S7",
-      "XL"
+      "UL"
     ]
   },
   {
     "name": "SkyTeam",
     "airlines": [
       "AF",
-      "AE",
       "AM",
       "AR",
       "AZ",
       "CI",
-      "CZ",
       "DL",
-      "FM",
+      "GA",
       "KE",
       "KL",
       "KQ",
       "ME",
+      "MF",
       "MU",
       "OK",
       "RO",
@@ -83,6 +72,16 @@
       "SV",
       "UX",
       "VN"
+    ]
+  },
+  {
+    "name": "Value Alliance",
+    "airlines": [
+      "5J",
+      "7C",
+      "DD",
+      "DG",
+      "TR"
     ]
   }
 ]
