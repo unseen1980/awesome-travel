@@ -1,0 +1,4 @@
+This script provides current flight times, destination and flight number for each major airlines. This documents will need to pull current flights from the ICAO_Airlines text file. 
+You will need to add airlines you would like to add to get the current flights of all flights for the day for that particular airline. IT will need to be in ICAO format. 
+You will need to go to https://rapidapi.com/ai-box-ai-box-default/api/flight-data4/ to get an API key. From there you may make 100 calls per month for the free
+version to get flight information. It will then put this information into an SQL database that you may access. 
