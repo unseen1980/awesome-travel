@@ -1,8 +1,0 @@
-{
-  "resolution": "main",
-  "tree": {
-    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/af76bf46025371c760d8fe8c03cf874428da6124/q/Q.d.ts",
-    "raw": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#af76bf46025371c760d8fe8c03cf874428da6124",
-    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/af76bf46025371c760d8fe8c03cf874428da6124/q/Q.d.ts"
-  }
-}

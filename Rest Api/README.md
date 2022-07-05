@@ -1,8 +1,6 @@
-
 ```
-npm install 
-typings install
-node index.js
+npm install
+npm start
 ```
 
-Make a request to http://localhost:3000/api
+Make a request to http://localhost:3000/api/airports
