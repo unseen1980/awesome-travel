@@ -53350,5 +53350,14 @@
     "callsign": "RUBY",
     "country": "United States",
     "is_active": true
+  },
+  {
+    "name": "Vistara",
+    "alias": "Vistara",
+    "iata": "UK",
+    "icao": "VTI",
+    "callsign": "VISTARA",
+    "country": "India",
+    "is_active": true
   }
 ]
