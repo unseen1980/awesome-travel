@@ -17,7 +17,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Galileo        | Travelopro Galileo GDS API       | [Go!](https://www.travelopro.com/galileo-gds-api-integration.php)     |
 | Amadeus        | Amadeus Travel APIs              | [Go!](https://developers.amadeus.com)                                 |
 | Rome2rio       | Rome2rio API partner program     | [Go!](https://www.rome2rio.com/documentation/)                        |
-| Travelfusion   | Travelfusion search and book api | [Go!](https://xmldocs.travelfusion.com/home/search-and-book-api.html) |
+| Travelfusion   | Travelfusion search and book api | [Go!](https://xmldocs.travelfusion.com/travelfusion-direct-connect-xml-api/search-and-book-api) |
 | Ebookers       | Ebookers API                     | [Go!](https://www.ebookers.com/p/network-affiliate)                   |
 | Wego           | Wego Flights API                 | [Go!](http://support.wan.travel/hc/en-us/articles/200191669)          |
 | Allmyles       | Allmyles Flights API             | [Go!](http://docs.allmyles.apiary.io/#)                               |
@@ -44,7 +44,6 @@ A curated list of awesome travel resources to help you build the next travel app
 | EAN         | Expedia Affiliate Network      | [Go!](https://developer.expediapartnersolutions.com/) |
 | Hotels.com  | Hotels.com API                 | [Go!](https://rapidapi.com/apidojo/api/hotels4)       |
 | Hotwire     | Hotwire Network                | [Go!](http://developer.hotwire.com/)                  |
-| TIXIK       | TIXIK.com API                  | [Go!](http://www.tixik.com/info/api/)                 |
 | Tripadvisor | Tripadvisor Content API        | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Stay22      | Hotels Close to Events API     | [Go!](https://www.stay22.com/docs)                    |
 | Zumata      | Multi-Source Hotel Booking API | [Go!](https://zumata.com)                             |
