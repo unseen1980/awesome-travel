@@ -136,14 +136,15 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | URL        | Description                 | Link                                        |
 | ---------- | --------------------------- | ------------------------------------------- |
+| Affect     | Free Stock photos, cc lic   | [Go!](https://affecttheverb.com/disabledandhere/) |
+| Flickr     | Photos Service              | [Go!](https://www.flickr.com/services/api/) |
+| Freepik    | Free Vectors, Stock Photos  | [Go!](https://www.freepik.com/)             |
+| Magdeleine | Free Stock Photos           | [Go!](https://magdeleine.co/)               |
+| Pexels     | Free Stock Photos           | [Go!](https://www.pexels.com/)              |
 | Pixabay    | Free Images and Videos      | [Go!](https://pixabay.com/)                 |
 | Picjumbo   | Free Stock Photos           | [Go!](https://picjumbo.com/)                |
-| Unsplash   | Free Stock Photos           | [Go!](https://unsplash.com/)                |
-| Flickr     | Photos Service              | [Go!](https://www.flickr.com/services/api/) |
-| Pexels     | Free Stock Photos           | [Go!](https://www.pexels.com/)              |
-| Freepik    | Free Vectors, Stock Photos  | [Go!](https://www.freepik.com/)             |
 | StockSnap  | Beautiful free stock photos | [Go!](https://stocksnap.io/)                |
-| Magdeleine | Free Stock Photos           | [Go!](https://magdeleine.co/)               |
+| Unsplash   | Free Stock Photos           | [Go!](https://unsplash.com/)                |
 
 ### Geolocation
 
