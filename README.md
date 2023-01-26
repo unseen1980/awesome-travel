@@ -10,20 +10,20 @@ A curated list of awesome travel resources to help you build the next travel app
 
 ### Flights
 
-| API            | Description                      | Link                                                                  |
-| -------------- | -------------------------------- | --------------------------------------------------------------------- |
-| Skyscanner     | Skyscanner for Business          | [Go!](https://skyscanner.github.io/slate/#api-documentation)          |
-| Sabre          | Sabre® Dev Studio                | [Go!](https://developer.sabre.com/docs/read/REST_APIs)                |
-| Galileo        | Travelopro Galileo GDS API       | [Go!](https://www.travelopro.com/galileo-gds-api-integration.php)     |
-| Amadeus        | Amadeus Travel APIs              | [Go!](https://developers.amadeus.com)                                 |
-| Rome2rio       | Rome2rio API partner program     | [Go!](https://www.rome2rio.com/documentation/)                        |
+| API            | Description                      | Link                                                                                            |
+| -------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Skyscanner     | Skyscanner for Business          | [Go!](https://skyscanner.github.io/slate/#api-documentation)                                    |
+| Sabre          | Sabre® Dev Studio                | [Go!](https://developer.sabre.com/docs/read/REST_APIs)                                          |
+| Galileo        | Travelopro Galileo GDS API       | [Go!](https://www.travelopro.com/galileo-gds-api-integration.php)                               |
+| Amadeus        | Amadeus Travel APIs              | [Go!](https://developers.amadeus.com)                                                           |
+| Rome2rio       | Rome2rio API partner program     | [Go!](https://www.rome2rio.com/documentation/)                                                  |
 | Travelfusion   | Travelfusion search and book api | [Go!](https://xmldocs.travelfusion.com/travelfusion-direct-connect-xml-api/search-and-book-api) |
-| Ebookers       | Ebookers API                     | [Go!](https://www.ebookers.com/p/network-affiliate)                   |
-| Wego           | Wego Flights API                 | [Go!](http://support.wan.travel/hc/en-us/articles/200191669)          |
-| Allmyles       | Allmyles Flights API             | [Go!](http://docs.allmyles.apiary.io/#)                               |
-| Trawex         | Trawex Universal Flight API      | [Go!](https://www.trawex.com/flight-api.php)                          |
-| ADS-B Exchange | ADS-B Exchange API               | [Go!](https://www.adsbexchange.com/data/)                             |
-| Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                     |
+| Ebookers       | Ebookers API                     | [Go!](https://www.ebookers.com/p/network-affiliate)                                             |
+| Wego           | Wego Flights API                 | [Go!](http://support.wan.travel/hc/en-us/articles/200191669)                                    |
+| Allmyles       | Allmyles Flights API             | [Go!](http://docs.allmyles.apiary.io/#)                                                         |
+| Trawex         | Trawex Universal Flight API      | [Go!](https://www.trawex.com/flight-api.php)                                                    |
+| ADS-B Exchange | ADS-B Exchange API               | [Go!](https://www.adsbexchange.com/data/)                                                       |
+| Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                                               |
 
 ### Flight data
 
@@ -87,7 +87,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API           | Description             | Link                                                                                                       |
 | ------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Tripadvisor   | Tripadvisor Content API | [Go!](https://developer-tripadvisor.com/content-api/)                                                      |
+| Tripadvisor   | Tripadvisor Content API | [Go!](https://www.tripadvisor.com/developers)                                                              |
 | Citygridmedia | Customer Reviews API    | [Go!](https://citygridmedia.atlassian.net/wiki/spaces/citygridv2/overview)                                 |
 | Olery         | Olery Review Data API   | [Go!](http://www.olery.com/api/)                                                                           |
 | Yelp          | Yelp Fusion API         | [Go!](https://www.yelp.com/developers/documentation/v3)                                                    |
@@ -134,17 +134,17 @@ A curated list of awesome travel resources to help you build the next travel app
 
 ### Free stock photos
 
-| URL        | Description                 | Link                                        |
-| ---------- | --------------------------- | ------------------------------------------- |
+| URL        | Description                 | Link                                              |
+| ---------- | --------------------------- | ------------------------------------------------- |
 | Affect     | Free Stock photos, cc lic   | [Go!](https://affecttheverb.com/disabledandhere/) |
-| Flickr     | Photos Service              | [Go!](https://www.flickr.com/services/api/) |
-| Freepik    | Free Vectors, Stock Photos  | [Go!](https://www.freepik.com/)             |
-| Magdeleine | Free Stock Photos           | [Go!](https://magdeleine.co/)               |
-| Pexels     | Free Stock Photos           | [Go!](https://www.pexels.com/)              |
-| Pixabay    | Free Images and Videos      | [Go!](https://pixabay.com/)                 |
-| Picjumbo   | Free Stock Photos           | [Go!](https://picjumbo.com/)                |
-| StockSnap  | Beautiful free stock photos | [Go!](https://stocksnap.io/)                |
-| Unsplash   | Free Stock Photos           | [Go!](https://unsplash.com/)                |
+| Flickr     | Photos Service              | [Go!](https://www.flickr.com/services/api/)       |
+| Freepik    | Free Vectors, Stock Photos  | [Go!](https://www.freepik.com/)                   |
+| Magdeleine | Free Stock Photos           | [Go!](https://magdeleine.co/)                     |
+| Pexels     | Free Stock Photos           | [Go!](https://www.pexels.com/)                    |
+| Pixabay    | Free Images and Videos      | [Go!](https://pixabay.com/)                       |
+| Picjumbo   | Free Stock Photos           | [Go!](https://picjumbo.com/)                      |
+| StockSnap  | Beautiful free stock photos | [Go!](https://stocksnap.io/)                      |
+| Unsplash   | Free Stock Photos           | [Go!](https://unsplash.com/)                      |
 
 ### Geolocation
 
