@@ -90,12 +90,11 @@ A curated list of awesome travel resources to help you build the next travel app
 | Tripadvisor   | Tripadvisor Content API | [Go!](https://www.tripadvisor.com/developers)                                                              |
 | Citygridmedia | Customer Reviews API    | [Go!](https://citygridmedia.atlassian.net/wiki/spaces/citygridv2/overview)                                 |
 | Olery         | Olery Review Data API   | [Go!](http://www.olery.com/api/)                                                                           |
-| Yelp          | Yelp Fusion API         | [Go!](https://www.yelp.com/developers/documentation/v3)                                                    |
+| Yelp          | Yelp Fusion API         | [Go!](https://docs.developer.yelp.com/docs/fusion-intro)                                                   |
 | Amadeus       | Points of Interest API  | [Go!](https://developers.amadeus.com/self-service/category/destination-content/api-doc/points-of-interest) |
 | Minube        | Minube search API       | [Go!](http://papi.minube.com/docs/)                                                                        |
 | Foursquare    | Foursquare Places API   | [Go!](https://foursquare.com/)                                                                             |
 | Sygic         | Sygic Travel API        | [Go!](http://docs.sygictravelapi.com/)                                                                     |
-| Triposo       | Travel Content API      | [Go!](https://www.triposo.com/api/)                                                                        |
 
 ### Itinerary
 
