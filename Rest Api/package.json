@@ -8,7 +8,7 @@
   "dependencies": {
     "body-parser": "^1.20.0",
     "cookie-parser": "~1.3.5",
-    "express": "^4.18.1",
+    "express": "^4.19.2",
     "glob": "^5.0.14",
     "lodash": ">=4.17.13",
     "morgan": ">=1.9.1",
