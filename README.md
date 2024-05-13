@@ -167,6 +167,10 @@ A curated list of awesome travel resources to help you build the next travel app
 | Weather & Forecast API | OpenWeather API                | [Go!](https://openweathermap.org/api)                 |
 | TransportAPI           | Transport data and development | [Go!](https://developer.transportapi.com/)            |
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=unseen1980/awesome-travel&type=Date)](https://star-history.com/#unseen1980/awesome-travel&Date)
+
 ## License
 
 The content of this project is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
