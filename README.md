@@ -93,8 +93,9 @@ A curated list of awesome travel resources to help you build the next travel app
 | Yelp          | Yelp Fusion API         | [Go!](https://docs.developer.yelp.com/docs/fusion-intro)                                                   |
 | Amadeus       | Points of Interest API  | [Go!](https://developers.amadeus.com/self-service/category/destination-content/api-doc/points-of-interest) |
 | Minube        | Minube search API       | [Go!](http://papi.minube.com/docs/)                                                                        |
-| Foursquare    | Foursquare Places API   | [Go!](https://foursquare.com/)                                                                             |
+| Foursquare    | Foursquare Places API   | [Go!](https://docs.foursquare.com/developer/reference/places-api-overview)                                 |
 | Sygic         | Sygic Travel API        | [Go!](http://docs.sygictravelapi.com/)                                                                     |
+| Famxplor      | Family Travel API       | [Go!](https://www.famxplor.com/api)                                                                        |
 
 ### Itinerary
 
