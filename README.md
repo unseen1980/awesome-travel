@@ -170,7 +170,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=unseen1980/awesome-travel&type=Date)](https://star-history.com/#unseen1980/awesome-travel&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=unseen1980/awesome-travel&type=Date)](https://www.star-history.com/#unseen1980/awesome-travel&Date)
 
 ## License
 
