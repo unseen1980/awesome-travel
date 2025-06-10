@@ -1,18 +1,14 @@
-import * as http from "http";
-import config from "./config/config";
+import { createServer } from 'http';
+import config from './config';
+import createApp from './app';
 
+const app = createApp();
+const server = createServer(app);
 
-// Init the express application
-const app = require("./config/express").default();
-
-const server: http.Server = http.createServer(app);
-
-server.listen(config.port);
-
-server.on("error", (e : Error) => {
-  console.log("Error starting server" + e);
+server.listen(config.port, () => {
+  console.log(`Server started on port ${config.port}`);
 });
 
-server.on("listening", () => {
-  console.log("Server started on port " + config.port);
+server.on('error', (e: Error) => {
+  console.error('Error starting server', e);
 });
