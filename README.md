@@ -155,6 +155,13 @@ A curated list of awesome travel resources to help you build the next travel app
 | ipgeolocation | Free IP Geolocation API                            | [Go!](https://ipgeolocation.io/) |
 | ipstack       | Locate and identify website visitors by IP address | [Go!](https://ipstack.com/)      |
 
+### Connectivity / eSIM
+
+| API     | Description                                    | Link                                              |
+| ------- | ---------------------------------------------- | ------------------------------------------------- |
+| PikaSim | eSIM API for 190+ countries, no KYC required   | [Go!](https://pikasim.com/reseller/api-docs)      |
+| Airalo  | eSIM API for travel connectivity               | [Go!](https://www.airalo.com/partner-with-us)     |
+
 ### Other services
 
 | API                    | Description                    | Link                                                  |
