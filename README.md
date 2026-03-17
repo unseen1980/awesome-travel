@@ -25,6 +25,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | ADS-B Exchange | ADS-B Exchange API               | [Go!](https://www.adsbexchange.com/data/)                                                       |
 | Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                                               |
 
+| APIbase | Unified flight API for AI agents: Amadeus + Sabre GDS wrapped in MCP. Search, price, status, routes. | [Go!](https://apibase.pro) |
 ### Flight data
 
 | API         | Description              | Link                                                          |
