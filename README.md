@@ -103,6 +103,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API    | Description            | Link                                    |
 | ------ | ---------------------- | --------------------------------------- |
 | TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
+| Stamp'd | Group Travel Decision-Making App with AI Itineraries | [Go!](https://heythereadventureseeker.com) |
 
 ### Tours
 
