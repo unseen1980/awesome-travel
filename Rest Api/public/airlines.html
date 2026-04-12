@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Travel API - Airlines</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+            background: #f5f7fa;
+            min-height: 100vh;
+            color: #1a202c;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            border-bottom: 1px solid #e2e8f0;
+            padding: 0;
+        }
+        .header-top {
+            padding: 24px 32px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .logo-icon {
+            width: 40px;
+            height: 40px;
+            background: #2d3748;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+        .logo-text h1 { 
+            font-size: 1.5em; 
+            font-weight: 600;
+            color: #1a202c;
+            margin-bottom: 2px;
+        }
+        .logo-text p { 
+            font-size: 0.875em; 
+            color: #718096;
+        }
+        .nav {
+            background: white;
+            padding: 0 32px;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            gap: 0;
+        }
+        .nav a {
+            padding: 16px 24px;
+            color: #718096;
+            text-decoration: none;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+            font-weight: 500;
+            font-size: 0.9375em;
+        }
+        .nav a:hover {
+            color: #2d3748;
+            background: #f7fafc;
+        }
+        .nav a.active {
+            color: #2d3748;
+            border-bottom-color: #2d3748;
+        }
+        .controls {
+            padding: 24px 32px;
+            background: white;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .search-box, .filter-select {
+            padding: 10px 16px;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 14px;
+            outline: none;
+            transition: all 0.2s;
+            background: #f7fafc;
+        }
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+        }
+        .filter-select {
+            min-width: 180px;
+            cursor: pointer;
+        }
+        .search-box:focus, .filter-select:focus { 
+            border-color: #4a5568;
+            background: white;
+            box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.1);
+        }
+        .btn {
+            padding: 10px 20px;
+            background: #2d3748;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .btn:hover { 
+            background: #1a202c;
+        }
+        .stats {
+            padding: 24px 32px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+            background: #f7fafc;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .stat-card {
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+        .stat-card .label {
+            font-size: 0.875em;
+            color: #718096;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+        .stat-card .number {
+            font-size: 2em;
+            font-weight: 600;
+            color: #2d3748;
+        }
+        .content {
+            padding: 32px;
+            background: #f7fafc;
+            min-height: 600px;
+        }
+        .airline-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+            gap: 16px;
+        }
+        .airline-card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            border: 1px solid #e2e8f0;
+            transition: all 0.2s;
+            position: relative;
+        }
+        .airline-card:hover {
+            border-color: #cbd5e0;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        .airline-card.inactive {
+            opacity: 0.65;
+        }
+        .airline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 12px;
+            gap: 12px;
+        }
+        .airline-name {
+            font-size: 1.125em;
+            font-weight: 600;
+            color: #2d3748;
+            flex: 1;
+            line-height: 1.4;
+        }
+        .status-badge {
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.75em;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+        .status-badge.active {
+            background: #c6f6d5;
+            color: #22543d;
+        }
+        .status-badge.inactive {
+            background: #fed7d7;
+            color: #742a2a;
+        }
+        .airline-alias {
+            color: #718096;
+            font-size: 0.875em;
+            margin-bottom: 12px;
+        }
+        .airline-codes {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+        }
+        .code-badge {
+            padding: 6px 12px;
+            background: #edf2f7;
+            color: #2d3748;
+            border-radius: 4px;
+            font-size: 0.8125em;
+            font-weight: 600;
+            font-family: 'Courier New', monospace;
+        }
+        .airline-details {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #718096;
+            font-size: 0.875em;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid #e2e8f0;
+        }
+        .airline-callsign {
+            color: #718096;
+            font-size: 0.8125em;
+            margin-top: 8px;
+            font-family: 'Courier New', monospace;
+        }
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            font-size: 1em;
+            color: #718096;
+        }
+        .highlight {
+            background: #fef5e7;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        .footer {
+            background: white;
+            border-top: 1px solid #e2e8f0;
+            padding: 24px 32px;
+            text-align: center;
+            color: #718096;
+            font-size: 0.875em;
+        }
+        .footer a {
+            color: #2d3748;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .footer a:hover {
+            color: #4a5568;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-top">
+                <div class="logo">
+                    <div class="logo-icon">✈️</div>
+                    <div class="logo-text">
+                        <h1>Awesome Travel</h1>
+                        <p>Global Aviation Database</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="nav">
+            <a href="/">Airports</a>
+            <a href="/airlines.html" class="active">Airlines</a>
+            <a href="/countries.html">Countries</a>
+        </div>
+        
+        <div class="controls">
+            <input type="text" id="searchBox" class="search-box" placeholder="Search airlines by name or code...">
+            <select id="countryFilter" class="filter-select">
+                <option value="">All Countries</option>
+            </select>
+            <select id="statusFilter" class="filter-select">
+                <option value="">All Status</option>
+                <option value="active">Active</option>
+                <option value="inactive">Inactive</option>
+            </select>
+            <button class="btn" onclick="loadAirlines()">Refresh</button>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="label">Total Airlines</div>
+                <div class="number" id="totalCount">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="label">Active</div>
+                <div class="number" id="activeCount">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="label">Countries</div>
+                <div class="number" id="countryCount">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="label">Showing</div>
+                <div class="number" id="filteredCount">-</div>
+            </div>
+        </div>
+        
+        <div class="content">
+            <div id="airlineList" class="loading">Loading data...</div>
+        </div>
+        
+        <div class="footer">
+            Developed by <a href="https://www.adnbilisim.com.tr" target="_blank" rel="noopener">ADN Bilişim Teknolojileri</a>
+        </div>
+    </div>
+
+    <script>
+        let allAirlines = [];
+        let filteredAirlines = [];
+
+        async function loadAirlines() {
+            try {
+                const response = await fetch('/api/airlines');
+                allAirlines = await response.json();
+                filteredAirlines = allAirlines;
+                populateCountryFilter();
+                updateStats();
+                displayAirlines(filteredAirlines);
+            } catch (error) {
+                document.getElementById('airlineList').innerHTML = 
+                    '<div class="loading" style="color: #e53e3e;">Error loading data</div>';
+            }
+        }
+
+        function populateCountryFilter() {
+            const countries = [...new Set(allAirlines.map(a => a.country).filter(Boolean))].sort();
+            const select = document.getElementById('countryFilter');
+            select.innerHTML = '<option value="">All Countries</option>' + 
+                countries.map(c => `<option value="${c}">${c}</option>`).join('');
+        }
+
+        function updateStats() {
+            const total = allAirlines.length;
+            const active = allAirlines.filter(a => a.is_active).length;
+            const countries = new Set(allAirlines.map(a => a.country).filter(Boolean)).size;
+            const filtered = filteredAirlines.length;
+            
+            document.getElementById('totalCount').textContent = total.toLocaleString();
+            document.getElementById('activeCount').textContent = active.toLocaleString();
+            document.getElementById('countryCount').textContent = countries;
+            document.getElementById('filteredCount').textContent = filtered.toLocaleString();
+        }
+
+        function displayAirlines(airlines) {
+            const container = document.getElementById('airlineList');
+            const entries = airlines;
+            
+            if (entries.length === 0) {
+                container.innerHTML = '<div class="loading">No results found</div>';
+                return;
+            }
+            
+            container.innerHTML = '<div class="airline-grid">' + entries.map(airline => {
+                const codes = [];
+                if (airline.iata) codes.push(`IATA: ${airline.iata}`);
+                if (airline.icao) codes.push(`ICAO: ${airline.icao}`);
+                
+                return `
+                <div class="airline-card ${airline.is_active ? '' : 'inactive'}">
+                    <div class="airline-header">
+                        <div class="airline-name">${highlightText(airline.name)}</div>
+                        <span class="status-badge ${airline.is_active ? 'active' : 'inactive'}">
+                            ${airline.is_active ? 'Active' : 'Inactive'}
+                        </span>
+                    </div>
+                    ${airline.alias ? `<div class="airline-alias">${airline.alias}</div>` : ''}
+                    ${codes.length > 0 ? `
+                        <div class="airline-codes">
+                            ${codes.map(c => `<span class="code-badge">${c}</span>`).join('')}
+                        </div>
+                    ` : ''}
+                    ${airline.callsign ? `
+                        <div class="airline-callsign">Callsign: ${airline.callsign}</div>
+                    ` : ''}
+                    <div class="airline-details">
+                        <span>${getCountryFlag(airline.country)}</span>
+                        <strong>${airline.country || 'Unknown'}</strong>
+                    </div>
+                </div>
+            `}).join('') + '</div>';
+        }
+
+        function getCountryFlag(country) {
+            const flags = {
+                'Turkey': '🇹🇷', 'United States': '🇺🇸', 'United Kingdom': '🇬🇧',
+                'Germany': '🇩🇪', 'France': '🇫🇷', 'Spain': '🇪🇸', 'Italy': '🇮🇹',
+                'Netherlands': '🇳🇱', 'Russia': '🇷🇺', 'China': '🇨🇳', 'Japan': '🇯🇵',
+                'India': '🇮🇳', 'Brazil': '🇧🇷', 'Canada': '🇨🇦', 'Australia': '🇦🇺',
+                'Mexico': '🇲🇽', 'South Korea': '🇰🇷', 'Saudi Arabia': '🇸🇦',
+                'United Arab Emirates': '🇦🇪', 'Singapore': '🇸🇬', 'Thailand': '🇹🇭'
+            };
+            return flags[country] || '🌍';
+        }
+
+        let searchQuery = '';
+        function highlightText(text) {
+            if (!searchQuery || !text) return text;
+            const regex = new RegExp(`(${searchQuery})`, 'gi');
+            return text.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        function applyFilters() {
+            const search = document.getElementById('searchBox').value.toLowerCase();
+            const country = document.getElementById('countryFilter').value;
+            const status = document.getElementById('statusFilter').value;
+            
+            searchQuery = search;
+            
+            filteredAirlines = allAirlines.filter(airline => {
+                const matchSearch = !search || 
+                    airline.name?.toLowerCase().includes(search) ||
+                    airline.alias?.toLowerCase().includes(search) ||
+                    airline.iata?.toLowerCase().includes(search) ||
+                    airline.icao?.toLowerCase().includes(search);
+                
+                const matchCountry = !country || airline.country === country;
+                
+                const matchStatus = !status || 
+                    (status === 'active' && airline.is_active) ||
+                    (status === 'inactive' && !airline.is_active);
+                
+                return matchSearch && matchCountry && matchStatus;
+            });
+            
+            updateStats();
+            displayAirlines(filteredAirlines);
+        }
+
+        document.getElementById('searchBox').addEventListener('input', applyFilters);
+        document.getElementById('countryFilter').addEventListener('change', applyFilters);
+        document.getElementById('statusFilter').addEventListener('change', applyFilters);
+
+        loadAirlines();
+    </script>
+</body>
+</html>

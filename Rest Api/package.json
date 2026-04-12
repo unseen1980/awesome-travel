@@ -1,6 +1,8 @@
 {
-  "name": "typescript-express",
-  "version": "0.0.0",
+  "name": "awesome-travel-api",
+  "version": "1.0.0",
+  "description": "REST API for global aviation and travel data",
+  "author": "ADN Bilişim Teknolojileri <https://www.adnbilisim.com.tr>",
   "private": true,
   "scripts": {
     "start": "npx ts-node ./src/index.ts",
