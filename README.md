@@ -183,6 +183,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Sunset and sunrise API | Sunset and Sunrise Times API   | [Go!](http://sunrise-sunset.org/api)                  |
 | Weather & Forecast API | OpenWeather API                | [Go!](https://openweathermap.org/api)                 |
 | TransportAPI           | Transport data and development | [Go!](https://developer.transportapi.com/)            |
+| IDPhotoSnap            | Open dataset and REST/MCP API for passport and visa photo specifications across 100+ countries and 248 document formats; companion free browser-only photo tool | [Go!](https://idphotosnap.com/developers) |
 
 ## Star History
 
