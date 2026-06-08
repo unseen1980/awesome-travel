@@ -183,6 +183,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Sunset and sunrise API | Sunset and Sunrise Times API   | [Go!](http://sunrise-sunset.org/api)                  |
 | Weather & Forecast API | OpenWeather API                | [Go!](https://openweathermap.org/api)                 |
 | TransportAPI           | Transport data and development | [Go!](https://developer.transportapi.com/)            |
+| TWZRD Agent Intel           | AI agent identity & trust scoring (Solana x402) | [Go!](https://intel.twzrd.xyz)                       |
 
 ## Star History
 
