@@ -70,6 +70,12 @@ A curated list of awesome travel resources to help you build the next travel app
 | Sedna       | Sedna API. Сan give a description for free  | [Go!](https://www.sednasystem.io/our-services/sedna-api/)           |
 | NauSYS      | NauSYS API. Сan give a description for free | [Go!](https://www.nausys.com/api-data-stream/)                      |
 
+### Cruises
+
+| API        | Description                                                                                | Link                         |
+| ---------- | ------------------------------------------------------------------------------------------ | ---------------------------- |
+| CruiseFeed | Structured cruise itinerary, pricing and ship data across cruise lines, ports and regions  | [Go!](https://cruisefeed.io) |
+
 ### Events
 
 | API         | Description                             | Link                                                      |
