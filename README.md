@@ -193,6 +193,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Weather & Forecast API | OpenWeather API                | [Go!](https://openweathermap.org/api)                 |
 | Beach Day              | Beach and beach-condition data for planning beach days | [Go!](https://beachdayapi.com) |
 | TransportAPI           | Transport data and development | [Go!](https://developer.transportapi.com/)            |
+| Sunshine Atlas | Monthly sunshine-hours & climate-normals data (temp, rainfall, sea temp) for 3,800+ destinations; open dataset (CC BY 4.0) + MCP server | [Go!](https://sunshineatlas.com/data/) |
 
 ## Star History
 
