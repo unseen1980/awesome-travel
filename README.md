@@ -99,6 +99,12 @@ A curated list of awesome travel resources to help you build the next travel app
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | Warnely | Composite travel-safety scores for 180 countries (UK FCDO + US State + GPI + WGI + live incident wire). OpenAPI 3.1 spec, CC BY 4.0. | [Go!](https://warnely.com/developers) |
 
+### Visa / Entry requirements
+
+| API        | Description                                                                                                                                       | Link                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
+
 ### Points of Interest (POIs) Content
 
 | API           | Description             | Link                                                                                                       |
