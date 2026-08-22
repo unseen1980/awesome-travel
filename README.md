@@ -62,6 +62,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Skyscanner | Skyscanner Car Hire Live                             | [Go!](https://skyscanner.github.io/slate/)        |
 | Cartrawler | Car Booking Engine (signup for partnership required) | [Go!](https://www.cartrawler.com/ct/)             |
 | Allmyles   | Allmyles Flights API                                 | [Go!](https://allmyles.docs.apiary.io/)           |
+| Pocket Drives | P2P luxury, exotic, and EV rental search MCP. Independent hosts; booking finishes in the iOS app | [Go!](https://pocketdrives.ai/mcp) |
 
 ### Yacht rentals
 
