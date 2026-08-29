@@ -118,6 +118,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API    | Description            | Link                                    |
 | ------ | ---------------------- | --------------------------------------- |
 | TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
+| Wander China | Free drag-and-drop China trip planner covering 31 cities with 1-day route recommendations | [Go!](https://ordinarymantrying.com/tools/wander-china/index.html) |
 
 ### Tours
 
