@@ -112,6 +112,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Foursquare    | Foursquare Places API   | [Go!](https://docs.foursquare.com/developer/reference/places-api-overview)                                 |
 | Sygic         | Sygic Travel API        | [Go!](http://docs.sygictravelapi.com/)                                                                     |
 | Famxplor      | Family Travel API       | [Go!](https://www.famxplor.com/api)                                                                        |
+| Wander Atlas | Hourly quiet and busy windows per attraction, weekday and weekend (no key) | [Go!](https://wanderatlasguides.com/api/) |
 
 ### Itinerary
 
