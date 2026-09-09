@@ -112,6 +112,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Foursquare    | Foursquare Places API   | [Go!](https://docs.foursquare.com/developer/reference/places-api-overview)                                 |
 | Sygic         | Sygic Travel API        | [Go!](http://docs.sygictravelapi.com/)                                                                     |
 | Famxplor      | Family Travel API       | [Go!](https://www.famxplor.com/api)                                                                        |
+| Bucketlist.nl Dream of the Day | Free daily travel and life-experience inspiration in JSON; no key required | [Go!](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) |
 
 ### Itinerary
 
