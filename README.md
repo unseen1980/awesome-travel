@@ -178,6 +178,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | ------- | ---------------------------------------------- | ------------------------------------------------- |
 | PikaSim | eSIM API for 190+ countries, no KYC required   | [Go!](https://pikasim.com/reseller/api-docs)      |
 | Airalo  | eSIM API for travel connectivity               | [Go!](https://www.airalo.com/partner-with-us)     |
+| SimBank | Travel eSIM, crypto checkout, live price compare | [Go!](https://www.simbank.com/compare)              |
 
 ### Other services
 
