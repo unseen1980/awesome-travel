@@ -38,6 +38,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API    | Description    | Link                                       |
 | ------ | -------------- | ------------------------------------------ |
+| Airport Transit Data | Open CSV/JSON dataset (CC BY 4.0): airport-to-city-centre transit and taxi fares, journey times and modes for 50 airports | [Go!](https://github.com/IronWingDigital/airport-transit-data) |
 | FlySFO | FlySFO.com API | [Go!](https://developers.flysfo.com/index) |
 
 ### Hotels / Rentals
