@@ -53,6 +53,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Allmyles    | Allmyles Hotels API            | [Go!](http://docs.allmyles.apiary.io/#)               |
 | Airbnb      | Airbnb API                     | [Go!](https://www.airbnb.co.uk/partner)               |
 | Booking.com | Booking.com API                | [Go!](https://developers.booking.com/api)             |
+| StayingAPI | Airbnb, Booking.com, Vrbo & Google Hotels listing, pricing & availability data (REST + MCP) | [Go!](https://stayingapi.com) |
 
 ### Car rentals
 
