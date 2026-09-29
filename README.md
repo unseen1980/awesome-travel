@@ -115,6 +115,8 @@ A curated list of awesome travel resources to help you build the next travel app
 | Foursquare    | Foursquare Places API   | [Go!](https://docs.foursquare.com/developer/reference/places-api-overview)                                 |
 | Sygic         | Sygic Travel API        | [Go!](http://docs.sygictravelapi.com/)                                                                     |
 | Famxplor      | Family Travel API       | [Go!](https://www.famxplor.com/api)                                                                        |
+| TableJourney  | Verified restaurants, markets and street food in 206 cities with provenance (source URL, date checked, open status) and opening hours, plus food festival dates. REST with OpenAPI and a remote MCP server, free, no key. | [Go!](https://tablejourney.com/agents/) |
+| Cork & Curve  | Verified vineyards, tasting rooms, wine bars and cellars across 37 European wine regions with provenance and hours, plus wine festival dates. REST with OpenAPI and a remote MCP server, free, no key. | [Go!](https://corkandcurve.com/agents/) |
 
 ### Itinerary
 
