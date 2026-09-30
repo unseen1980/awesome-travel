@@ -95,6 +95,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Lonely Planet | Editorial content API                                          | [Go!](https://docs.dev.content-api.lonelyplanet.com/#introduction) |
 | Superhighway  | Web search, news, scrape & deep-research API for AI travel agents. Research destinations, find attractions, pull advisories. MCP server, pay-per-call. | [Go!](https://superhighway.walls.sh) |
 | Bucketlist.nl | One published travel or life experience idea per day, with image, theme & destination | [Go!](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) |
+| Passport Photo Requirements | Official passport, visa and travel-authorisation photo specs for 19 documents as JSON (print size, file-size limits, head height, background, official source), CC BY 4.0 | [Go!](https://github.com/tensam/passport-photo-requirements) |
 
 ### Travel Safety / Country Risk
 
