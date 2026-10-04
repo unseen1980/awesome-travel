@@ -26,6 +26,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                                               |
 | Ignav          | Live flight prices and booking links for AI agents and travel apps | [Go!](https://ignav.com)                                                                        |
 | Stopover Planner | Live Google Flights prices (GBP) with booking links: stopover itineraries, country-wide and explore-everywhere search | [Go!](https://rapidapi.com/stopover-labs-stopover-labs-default/api/stopover-planner) |
+| SkyAccess | Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. | [Go!](https://github.com/sky-access/skyaccess-mcp) |
 
 | APIbase | Unified flight API for AI agents: Amadeus + Sabre GDS wrapped in MCP. Search, price, status, routes. | [Go!](https://apibase.pro) |
 ### Flight data
