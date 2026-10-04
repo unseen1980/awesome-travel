@@ -55,6 +55,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Airbnb      | Airbnb API                     | [Go!](https://www.airbnb.co.uk/partner)               |
 | Booking.com | Booking.com API                | [Go!](https://developers.booking.com/api)             |
 | StayingAPI | Airbnb, Booking.com, Vrbo & Google Hotels listing, pricing & availability data (REST + MCP) | [Go!](https://stayingapi.com) |
+| MAQAMI      | Hotel and flight search, prebook and book over a remote MCP server (Streamable HTTP, no API key) | [Go!](https://github.com/negm17111995/mcp-server) |
 
 ### Car rentals
 
