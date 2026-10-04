@@ -179,6 +179,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API     | Description                                    | Link                                              |
 | ------- | ---------------------------------------------- | ------------------------------------------------- |
+| ConnectMeGuru | Global prepaid travel eSIM connectivity platform and remote Model Context Protocol (MCP) server for 190+ countries | [Go!](https://www.connectmeguru.com) |
 | PikaSim | eSIM API for 190+ countries, no KYC required   | [Go!](https://pikasim.com/reseller/api-docs)      |
 | Airalo  | eSIM API for travel connectivity               | [Go!](https://www.airalo.com/partner-with-us)     |
 
