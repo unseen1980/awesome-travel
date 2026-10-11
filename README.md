@@ -33,6 +33,8 @@ A curated list of awesome travel resources to help you build the next travel app
 | API         | Description              | Link                                                          |
 | ----------- | ------------------------ | ------------------------------------------------------------- |
 | Flightstats | Flight Data Services API | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
+| Flight Fare History | Open dataset (CC BY 4.0): observed airfare distributions (median, 10th percentile, minimum) by route and departure month, 2.3M fares on 75k city pairs | [Go!](https://doi.org/10.5281/zenodo.23290391) |
+| Piratefly API | Fare history and price verdict for a route and month (is this fare cheap?), with an MCP server for AI agents | [Go!](https://piratefly.com/api) |
 
 ### Airport services
 
