@@ -55,6 +55,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Airbnb      | Airbnb API                     | [Go!](https://www.airbnb.co.uk/partner)               |
 | Booking.com | Booking.com API                | [Go!](https://developers.booking.com/api)             |
 | StayingAPI | Airbnb, Booking.com, Vrbo & Google Hotels listing, pricing & availability data (REST + MCP) | [Go!](https://stayingapi.com) |
+| Google Hotels | Live Google Hotels & Vacation Rentals prices, OTA providers, rooms, amenities and daily price calendar (REST + Python) | [Go!](https://apify.com/zet46/google-hotels-scraper) |
 
 ### Car rentals
 
