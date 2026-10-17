@@ -106,6 +106,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| China Visa Check | China entry rules for all 194 passports: 30-day visa-free entry, 240-hour visa-free transit, Hainan entry and mutual exemptions, with end dates. Open JSON and CSV (CC BY 4.0), checked daily against official Chinese sources, no key; also a free embeddable checker. | [Go!](https://github.com/chematecc/china-visa-rules) |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
 
 ### Points of Interest (POIs) Content
