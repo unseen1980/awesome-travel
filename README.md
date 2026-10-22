@@ -107,6 +107,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| China Visa Check API | China entry rules by passport (30-day visa-free entry, mutual exemption, 240-hour visa-free transit, Hainan) and a trip check: give passport, days, purpose, onward ticket and date, get the verdict and an explanation in 10 languages. JSON, no key, CORS, OpenAPI; checked daily against official Chinese sources. | [Go!](https://github.com/chematecc/china-visa-rules#use-it-as-an-api) |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
 
 ### Points of Interest (POIs) Content
