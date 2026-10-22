@@ -107,6 +107,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| NomadPoint | Entry type and allowed stay for any passport and destination (39,601 pairs, with source and date checked), plus a Schengen 90/180 day calculator. No key, CORS open, OpenAPI spec. Also a no-auth MCP server. | [Go!](https://github.com/eladkishon/nomadpoint-skills#travel-api-no-key) |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
 
 ### Points of Interest (POIs) Content
