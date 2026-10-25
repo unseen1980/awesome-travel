@@ -39,6 +39,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API    | Description    | Link                                       |
 | ------ | -------------- | ------------------------------------------ |
 | Airport Transit Data | Open CSV/JSON dataset (CC BY 4.0): airport-to-city-centre transit and taxi fares, journey times and modes for 50 airports | [Go!](https://github.com/IronWingDigital/airport-transit-data) |
+| Mubboo Airport-to-City-Centre Access Index | Open CSV dataset (CC BY 4.0) for 60 cities: official published public-transport times/fares and taxi figures, with a source register. September 2026 snapshot; 46 verified journey times, not live estimates. | [Go!](https://mubboo.flights/research/airport-city-access-index) |
 | FlySFO | FlySFO.com API | [Go!](https://developers.flysfo.com/index) |
 
 ### Hotels / Rentals
