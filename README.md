@@ -208,6 +208,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | TransportAPI           | Transport data and development | [Go!](https://developer.transportapi.com/)            |
 | YouChina               | Free China entry-readiness guides and visa-free transit eligibility checker | [Go!](https://you-china.com/en/transit) |
 | CoworkingView          | Coworking and private office search API (420+ spaces in Europe and the UAE, no key) | [Go!](https://api.coworkingview.com/v1) |
+| Atlassio               | Free European Schengen 90/180-day visa calculator and travel day tracker | [Go!](https://atlassio.co.uk) |
 
 ## Star History
 
