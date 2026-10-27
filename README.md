@@ -56,6 +56,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Booking.com | Booking.com API                | [Go!](https://developers.booking.com/api)             |
 | StayingAPI | Airbnb, Booking.com, Vrbo & Google Hotels listing, pricing & availability data (REST + MCP) | [Go!](https://stayingapi.com) |
 | Kurtaxe | German tourist tax (Kurtaxe) rates by municipality, each quoted from the municipal statute, with a stay calculator. Keyless JSON, CC BY 4.0 | [Go!](https://keyset.cloud/kurtaxe/api/) |
+| Perceptlayer | Search and listing data from Airbnb, Booking.com, Vrbo, Expedia, Agoda, Hostelworld, Google Hotels and 19 more travel sites as JSON, one API key (REST + MCP) | [Go!](https://perceptlayer.com/verticals/travel) |
 
 ### Car rentals
 
