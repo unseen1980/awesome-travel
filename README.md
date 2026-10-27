@@ -137,6 +137,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | ------------ | --------------- | -------------------------------------------------------------- |
 | Getyourguide | City Guides API | [Go!](https://api.getyourguide.com/)                           |
 | TicketLens   | Destination experiences API for tours, attraction tickets, sports tickets, and activities | [Go!](https://api.ticketlens.com/v1/docs) |
+| TourScanner  | Tours and Activities API | [Go!](https://tourscanner.ai/docs) |
 | Viator       | Tours API       | [Go!](https://docs.viator.com/partner-api/merchant/technical/) |
 
 ### Currencies
