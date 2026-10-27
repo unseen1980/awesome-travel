@@ -107,6 +107,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Atlassio | Automated Schengen 90/180-day travel compliance and visa calculator for nomads and remote workers | [Go!](https://atlassio.co.uk) |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
 
 ### Points of Interest (POIs) Content
