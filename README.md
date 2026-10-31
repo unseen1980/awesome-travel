@@ -109,6 +109,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
+| Thailand DTV Check | x402 pay-per-call API (0.05 USDC on Base, no key): POST a Thailand DTV/METV document package, get per-document ok/missing/fail, blockers, score 0-100, official fees and embassy sources. Reflects the 31 Aug 2026 rule change (residence proof + criminal record certificate). | [Go!](https://x402.pxbt.app/visa/dtv-check) |
 
 ### Points of Interest (POIs) Content
 
