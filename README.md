@@ -148,6 +148,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Fixer.io                | JSON API for Foreign Exchange Rates                                        | [Go!](http://fixer.io/)                               |
 | Exchange Rates API      | API for current and historical foreign exchange rates published by the ECB | [Go!](https://exchangeratesapi.io/)                   |
 | Open Exchange Rates API | Renowned Exchange Rates and Currency Conversion API                        | [Go!](https://openexchangerates.org/)                 |
+| AllRatesToday           | Exchange rate API for 160+ currencies, keyless ECB rates, converter widget | [Go!](https://allratestoday.com/docs/)                |
 
 ### Map services
 
