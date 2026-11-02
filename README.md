@@ -12,22 +12,21 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API            | Description                      | Link                                                                                            |
 | -------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Skyscanner     | Skyscanner for Business          | [Go!](https://skyscanner.github.io/slate/#api-documentation)                                    |
-| Sabre          | Sabre® Dev Studio                | [Go!](https://developer.sabre.com/docs/read/REST_APIs)                                          |
+| Skyscanner     | Skyscanner for Business          | [Go!](https://developers.skyscanner.net/docs/intro)                                             |
+| Sabre          | Sabre® Dev Studio                | [Go!](https://developer.sabre.com/product-catalog)                                              |
 | Galileo        | Travelopro Galileo GDS API       | [Go!](https://www.travelopro.com/galileo-gds-api-integration.php)                               |
 | Amadeus        | Amadeus Travel APIs              | [Go!](https://developers.amadeus.com)                                                           |
 | Rome2rio       | Rome2rio API partner program     | [Go!](https://www.rome2rio.com/documentation/)                                                  |
 | Travelfusion   | Travelfusion search and book api | [Go!](https://xmldocs.travelfusion.com/travelfusion-direct-connect-xml-api/search-and-book-api) |
 | Ebookers       | Ebookers API                     | [Go!](https://www.ebookers.com/p/network-affiliate)                                             |
-| Wego           | Wego Flights API                 | [Go!](http://support.wan.travel/hc/en-us/articles/200191669)                                    |
-| Allmyles       | Allmyles Flights API             | [Go!](http://docs.allmyles.apiary.io/#)                                                         |
+| Allmyles       | Allmyles Flights API             | [Go!](https://docs.allmyles.com/)                                                               |
 | Trawex         | Trawex Universal Flight API      | [Go!](https://www.trawex.com/flight-api.php)                                                    |
 | ADS-B Exchange | ADS-B Exchange API               | [Go!](https://www.adsbexchange.com/data/)                                                       |
 | Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                                               |
 | Ignav          | Live flight prices and booking links for AI agents and travel apps | [Go!](https://ignav.com)                                                                        |
 | Stopover Planner | Live Google Flights prices (GBP) with booking links: stopover itineraries, country-wide and explore-everywhere search | [Go!](https://rapidapi.com/stopover-labs-stopover-labs-default/api/stopover-planner) |
-
 | APIbase | Unified flight API for AI agents: Amadeus + Sabre GDS wrapped in MCP. Search, price, status, routes. | [Go!](https://apibase.pro) |
+
 ### Flight data
 
 | API         | Description              | Link                                                          |
@@ -38,7 +37,6 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API    | Description    | Link                                       |
 | ------ | -------------- | ------------------------------------------ |
-| Airport Transit Data | Open CSV/JSON dataset (CC BY 4.0): airport-to-city-centre transit and taxi fares, journey times and modes for 50 airports | [Go!](https://github.com/IronWingDigital/airport-transit-data) |
 | FlySFO | FlySFO.com API | [Go!](https://developers.flysfo.com/index) |
 
 ### Hotels / Rentals
@@ -47,11 +45,10 @@ A curated list of awesome travel resources to help you build the next travel app
 | ----------- | ------------------------------ | ----------------------------------------------------- |
 | EAN         | Expedia Affiliate Network      | [Go!](https://developer.expediapartnersolutions.com/) |
 | Hotels.com  | Hotels.com API                 | [Go!](https://rapidapi.com/apidojo/api/hotels4)       |
-| Hotwire     | Hotwire Network                | [Go!](http://developer.hotwire.com/)                  |
 | Tripadvisor | Tripadvisor Content API        | [Go!](https://developer-tripadvisor.com/content-api/) |
 | Stay22      | Hotels Close to Events API     | [Go!](https://www.stay22.com/docs)                    |
 | Zumata      | Multi-Source Hotel Booking API | [Go!](https://zumata.com)                             |
-| Allmyles    | Allmyles Hotels API            | [Go!](http://docs.allmyles.apiary.io/#)               |
+| Allmyles    | Allmyles Hotels API            | [Go!](https://docs.allmyles.com/)                     |
 | Airbnb      | Airbnb API                     | [Go!](https://www.airbnb.co.uk/partner)               |
 | Booking.com | Booking.com API                | [Go!](https://developers.booking.com/api)             |
 | StayingAPI | Airbnb, Booking.com, Vrbo & Google Hotels listing, pricing & availability data (REST + MCP) | [Go!](https://stayingapi.com) |
@@ -62,10 +59,9 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API        | Description                                          | Link                                              |
 | ---------- | ---------------------------------------------------- | ------------------------------------------------- |
-| Travelpd   | Car Booking Engine                                   | [Go!](http://www.travelpd.com/car-booking-engine) |
-| Skyscanner | Skyscanner Car Hire Live                             | [Go!](https://skyscanner.github.io/slate/)        |
+| Skyscanner | Skyscanner Car Hire Live                             | [Go!](https://developers.skyscanner.net/docs/carhire-live-prices/overview) |
 | Cartrawler | Car Booking Engine (signup for partnership required) | [Go!](https://www.cartrawler.com/ct/)             |
-| Allmyles   | Allmyles Flights API                                 | [Go!](https://allmyles.docs.apiary.io/)           |
+| Allmyles   | Allmyles Car Rental API                              | [Go!](https://docs.allmyles.com/)                 |
 
 ### Yacht rentals
 
@@ -73,7 +69,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | ----------- | ------------------------------------------- | ------------------------------------------------------------------- |
 | MMK Systems | Booking Manager API                         | [Go!](https://app.swaggerhub.com/apis-docs/mmksystems/bm-api/2.0.0) |
 | Sedna       | Sedna API. Сan give a description for free  | [Go!](https://www.sednasystem.io/our-services/sedna-api/)           |
-| NauSYS      | NauSYS API. Сan give a description for free | [Go!](https://www.nausys.com/api-data-stream/)                      |
+| NauSYS      | NauSYS API. Сan give a description for free | [Go!](https://www.nausys.com/)                                      |
 
 ### Cruises
 
@@ -94,8 +90,6 @@ A curated list of awesome travel resources to help you build the next travel app
 | API           | Description                                                    | Link                                                               |
 | ------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ |
 | RoadGoat      | Content API for 4.3M cities, towns, countries, & neighborhoods | [Go!](https://www.roadgoat.com/business/cities-api)                |
-| Lonely Planet | Editorial content API                                          | [Go!](https://docs.dev.content-api.lonelyplanet.com/#introduction) |
-| Superhighway  | Web search, news, scrape & deep-research API for AI travel agents. Research destinations, find attractions, pull advisories. MCP server, pay-per-call. | [Go!](https://superhighway.walls.sh) |
 | Bucketlist.nl | One published travel or life experience idea per day, with image, theme & destination | [Go!](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) |
 
 ### Travel Safety / Country Risk
@@ -119,9 +113,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Olery         | Olery Review Data API   | [Go!](http://www.olery.com/api/)                                                                           |
 | Yelp          | Yelp Fusion API         | [Go!](https://docs.developer.yelp.com/docs/fusion-intro)                                                   |
 | Amadeus       | Points of Interest API  | [Go!](https://developers.amadeus.com/self-service/category/destination-content/api-doc/points-of-interest) |
-| Minube        | Minube search API       | [Go!](http://papi.minube.com/docs/)                                                                        |
-| Foursquare    | Foursquare Places API   | [Go!](https://docs.foursquare.com/developer/reference/places-api-overview)                                 |
-| Sygic         | Sygic Travel API        | [Go!](http://docs.sygictravelapi.com/)                                                                     |
+| Foursquare    | Foursquare Places API   | [Go!](https://docs.foursquare.com/fsq-developers-places/reference/places-api-overview)                     |
 | Famxplor      | Family Travel API       | [Go!](https://www.famxplor.com/api)                                                                        |
 | TableJourney  | Verified restaurants, markets and street food in 206 cities with provenance (source URL, date checked, open status) and opening hours, plus food festival dates. REST with OpenAPI and a remote MCP server, free, no key. | [Go!](https://tablejourney.com/agents/) |
 | Cork & Curve  | Verified vineyards, tasting rooms, wine bars and cellars across 37 European wine regions with provenance and hours, plus wine festival dates. REST with OpenAPI and a remote MCP server, free, no key. | [Go!](https://corkandcurve.com/agents/) |
@@ -144,7 +136,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API                     | Description                                                                | Link                                                  |
 | ----------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Skyscanner              | Skyscanner Currencies Service                                              | [Go!](https://skyscanner.github.io/slate/#currencies) |
+| Skyscanner              | Skyscanner Currencies Service                                              | [Go!](https://developers.skyscanner.net/docs/culture/overview) |
 | Fixer.io                | JSON API for Foreign Exchange Rates                                        | [Go!](http://fixer.io/)                               |
 | Exchange Rates API      | API for current and historical foreign exchange rates published by the ECB | [Go!](https://exchangeratesapi.io/)                   |
 | Open Exchange Rates API | Renowned Exchange Rates and Currency Conversion API                        | [Go!](https://openexchangerates.org/)                 |
@@ -157,7 +149,6 @@ A curated list of awesome travel resources to help you build the next travel app
 | Microsoft     | Bing Maps API                                | [Go!](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api) |
 | Mapbox        | Mapbox Web Services                          | [Go!](https://docs.mapbox.com/api/)                                   |
 | Here          | Interactive Maps                             | [Go!](https://developer.here.com/develop/javascript-api)              |
-| Viamichelin   | Maps, Routing and Geocoding                  | [Go!](https://api.viamichelin.com/)                                   |
 | Factual       | Location Data                                | [Go!](https://developer.factual.com/docs/places-overview)             |
 | OpenStreetMap | Multiple OSM APIs for Geodata, Mapping, etc. | [Go!](https://wiki.openstreetmap.org/wiki/API)                        |
 | Arcgis        | ArcGIS REST API                              | [Go!](https://developers.arcgis.com/)                                 |
@@ -201,7 +192,6 @@ A curated list of awesome travel resources to help you build the next travel app
 | OAG                    | Airline Schedules              | [Go!](http://www.oag.com/schedules/schedulesondemand) |
 | Uber                   | Uber API                       | [Go!](https://developer.uber.com/)                    |
 | Timezonedb             | Time Zones API                 | [Go!](https://timezonedb.com/api)                     |
-| WorldMate              | WorldMate Email Parsing API    | [Go!](https://developers.worldmate.com/)              |
 | Windy API              | Weather forecast API           | [Go!](https://api.windy.com/)                         |
 | Sunset and sunrise API | Sunset and Sunrise Times API   | [Go!](http://sunrise-sunset.org/api)                  |
 | Weather & Forecast API | OpenWeather API                | [Go!](https://openweathermap.org/api)                 |
