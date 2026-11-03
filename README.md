@@ -109,6 +109,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
+| TourPro Visa Checker | Free visa and work-permit checker for touring artists and crew. Covers 58 destinations with separate artist vs crew guidance, passport-specific overrides, and links to official sources. | [Go!](https://www.tourpro.app/tools/visa-checker) |
 
 ### Points of Interest (POIs) Content
 
