@@ -161,6 +161,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Factual       | Location Data                                | [Go!](https://developer.factual.com/docs/places-overview)             |
 | OpenStreetMap | Multiple OSM APIs for Geodata, Mapping, etc. | [Go!](https://wiki.openstreetmap.org/wiki/API)                        |
 | Arcgis        | ArcGIS REST API                              | [Go!](https://developers.arcgis.com/)                                 |
+| OpenMapp      | Free interactive map of 1,368 US BJJ gyms with open mats, drop-ins, and schedules | [Go!](https://www.openmapp.com)                                       |
 
 ### Free stock photos
 
