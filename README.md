@@ -109,6 +109,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
+| entrycardguide | Official government URLs, real fees and field-by-field notes for digital arrival cards in 53 countries (Thailand TDAC, China Arrival Card, Mexico FMM-E, Taiwan TWAC and more). Every URL has a last-verified date; code MIT, data CC BY-SA 4.0 on GitHub. | [Go!](https://entrycardguide.com/) |
 
 ### Points of Interest (POIs) Content
 
