@@ -97,6 +97,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Lonely Planet | Editorial content API                                          | [Go!](https://docs.dev.content-api.lonelyplanet.com/#introduction) |
 | Superhighway  | Web search, news, scrape & deep-research API for AI travel agents. Research destinations, find attractions, pull advisories. MCP server, pay-per-call. | [Go!](https://superhighway.walls.sh) |
 | Bucketlist.nl | One published travel or life experience idea per day, with image, theme & destination | [Go!](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) |
+| hexplace | 30,864 towns in 28 European countries: monthly climate normals (ERA5-Land 1991-2020), rents and home prices, amenities within a walk, transport and hazards. JSON API, no key, CC BY 4.0 | [Go!](https://hexplace.org/developers/) |
 
 ### Travel Safety / Country Risk
 
