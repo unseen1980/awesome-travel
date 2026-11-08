@@ -88,6 +88,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Active      | Search for Events, Classes, Campgrounds | [Go!](http://developer.active.com/)                       |
 | Gadventures | Adventure Activities                    | [Go!](https://developers.gadventures.com/docs/index.html) |
 | PredictHQ   | Events API for Travel                   | [Go!](https://www.predicthq.com/events/travel)            |
+| Latino Events | Latin American concert and festival listings: city iCal feeds and a remote MCP server | [Go!](https://events.lat/llms.txt) |
 
 ### Destinations/Cities/Countries Content
 
