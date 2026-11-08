@@ -109,6 +109,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
+| China Visa-Free Data | Open JSON/CSV dataset of who can enter mainland China visa-free (30-day unilateral, mutual exemption, 240-hour transit) by country, with an official source per row. Stable raw URLs, CC BY 4.0. | [Go!](https://github.com/zipengbo/china-visa-free-data) |
 
 ### Points of Interest (POIs) Content
 
