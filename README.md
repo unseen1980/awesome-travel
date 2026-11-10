@@ -40,6 +40,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | ------ | -------------- | ------------------------------------------ |
 | Airport Transit Data | Open CSV/JSON dataset (CC BY 4.0): airport-to-city-centre transit and taxi fares, journey times and modes for 50 airports | [Go!](https://github.com/IronWingDigital/airport-transit-data) |
 | FlySFO | FlySFO.com API | [Go!](https://developers.flysfo.com/index) |
+| WhatFliesWhere | Free embeddable map and list of an airport's nonstop routes, with airlines and days flown | [Go!](https://whatflieswhere.com/embed/jfk) |
 
 ### Hotels / Rentals
 
