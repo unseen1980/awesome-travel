@@ -88,6 +88,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Active      | Search for Events, Classes, Campgrounds | [Go!](http://developer.active.com/)                       |
 | Gadventures | Adventure Activities                    | [Go!](https://developers.gadventures.com/docs/index.html) |
 | PredictHQ   | Events API for Travel                   | [Go!](https://www.predicthq.com/events/travel)            |
+| No Stairs Please | Step-free live-music venue directory & MCP | [Go!](https://nostairsplease.com/)                        |
 
 ### Destinations/Cities/Countries Content
 
