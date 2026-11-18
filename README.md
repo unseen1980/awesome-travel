@@ -66,6 +66,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Skyscanner | Skyscanner Car Hire Live                             | [Go!](https://skyscanner.github.io/slate/)        |
 | Cartrawler | Car Booking Engine (signup for partnership required) | [Go!](https://www.cartrawler.com/ct/)             |
 | Allmyles   | Allmyles Flights API                                 | [Go!](https://allmyles.docs.apiary.io/)           |
+| CheapCarRent | Car rental search MCP: 15,000 pickup points in 46 countries, 19 languages. Streamable HTTP, no auth, read-only. | [Go!](https://cheapcarent.com/developers) |
 
 ### Yacht rentals
 
