@@ -33,6 +33,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API         | Description              | Link                                                          |
 | ----------- | ------------------------ | ------------------------------------------------------------- |
 | Flightstats | Flight Data Services API | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
+| Flare fare snapshot | Open CSV/JSON of observed low fares with route reference prices (CC BY 4.0 for the compilation) | [Go!](https://flareflights.com/fare-snapshot.html) |
 
 ### Airport services
 
