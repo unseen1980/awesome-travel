@@ -33,6 +33,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API         | Description              | Link                                                          |
 | ----------- | ------------------------ | ------------------------------------------------------------- |
 | Flightstats | Flight Data Services API | [Go!](https://developer.flightstats.com/api-docs/airports/v1) |
+| Google Flights (unofficial, Apify) | Prices and itineraries scraped from Google Flights; paid per result | [Go!](https://apify.com/cprussin/google-flights-prices?fpr=to54nm) |
 
 ### Airport services
 
