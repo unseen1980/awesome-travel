@@ -130,6 +130,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API    | Description            | Link                                    |
 | ------ | ---------------------- | --------------------------------------- |
+| Stopover (flystopover.com) | Multi-city trip planner: the cheapest order of cities, the dates, and the flights or trains between them, with booking links. Remote MCP server (`https://mcp.flystopover.com/mcp`), free, no key. | [Go!](https://flystopover.com) |
 | TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
 
 ### Tours
