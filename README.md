@@ -21,6 +21,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Ebookers       | Ebookers API                     | [Go!](https://www.ebookers.com/p/network-affiliate)                                             |
 | Wego           | Wego Flights API                 | [Go!](http://support.wan.travel/hc/en-us/articles/200191669)                                    |
 | Allmyles       | Allmyles Flights API             | [Go!](http://docs.allmyles.apiary.io/#)                                                         |
+| CarRentalList | Independent exotic and luxury car rental companies across the US with the daily rates each one publishes (never estimated). Keyless JSON API with OpenAPI 3.1 and open CORS, plus a free MCP server | [Go!](https://carrentallist.com/api) |
 | Trawex         | Trawex Universal Flight API      | [Go!](https://www.trawex.com/flight-api.php)                                                    |
 | ADS-B Exchange | ADS-B Exchange API               | [Go!](https://www.adsbexchange.com/data/)                                                       |
 | Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                                               |
