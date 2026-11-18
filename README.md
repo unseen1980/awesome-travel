@@ -108,6 +108,7 @@ A curated list of awesome travel resources to help you build the next travel app
 
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Declaroad | Visa status and entry rules (customs, cash, medicines, drones, registration) by passport and destination, each with its official source. Free JSON API and CC BY 4.0 dataset, no key; also a remote MCP server. | [Go!](https://declaroad.com/llms.txt) |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
 
 ### Points of Interest (POIs) Content
