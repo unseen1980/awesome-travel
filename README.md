@@ -26,6 +26,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                                               |
 | Ignav          | Live flight prices and booking links for AI agents and travel apps | [Go!](https://ignav.com)                                                                        |
 | Stopover Planner | Live Google Flights prices (GBP) with booking links: stopover itineraries, country-wide and explore-everywhere search | [Go!](https://rapidapi.com/stopover-labs-stopover-labs-default/api/stopover-planner) |
+| Agent Flights  | Cheap flights worldwide. Free remote MCP and REST API for fare search, price calendars, cheap destinations and booking links | [Go!](https://lowest.flights) |
 
 | APIbase | Unified flight API for AI agents: Amadeus + Sabre GDS wrapped in MCP. Search, price, status, routes. | [Go!](https://apibase.pro) |
 ### Flight data
