@@ -137,6 +137,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API          | Description     | Link                                                           |
 | ------------ | --------------- | -------------------------------------------------------------- |
 | Getyourguide | City Guides API | [Go!](https://api.getyourguide.com/)                           |
+| Mappu        | Free audio guides to 1,000+ landmarks and self-guided walks in 8 languages, plus a day-by-day trip planner. Remote MCP server, free, no key. | [Go!](https://www.mappu.ai/assistants) |
 | TicketLens   | Destination experiences API for tours, attraction tickets, sports tickets, and activities | [Go!](https://api.ticketlens.com/v1/docs) |
 | Viator       | Tours API       | [Go!](https://docs.viator.com/partner-api/merchant/technical/) |
 
