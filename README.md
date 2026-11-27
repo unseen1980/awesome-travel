@@ -109,6 +109,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API        | Description                                                                                                                                       | Link                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Orizn Visa | Visa requirements for 199 passports across 232 destinations, in 15 languages. Each response carries the date the pair was last verified. Free tier. | [Go!](https://visa.orizn.app/visa-api)  |
+| PandaWander China Entry Data | CC BY 4.0 open CSV datasets & deterministic checker for China's 50-country 30-day visa-free list and 57-country / 65-port 240-hour transit rules (MFA/NIA sourced, Zenodo DOI 10.5281/zenodo.24612164). | [Go!](https://pandawander.com/data/) |
 
 ### Points of Interest (POIs) Content
 
